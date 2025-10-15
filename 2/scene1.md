@@ -2,7 +2,7 @@
 
 ---
 
-# <mark> Stage Is Dim. No Display. Start playing "Adventure Of A Lifetime" instrumental, Building Up until Crescendo, Lights Fade In slowly.. Then Open "Home" Main Display Scene. The family‚Äôs boat, with ENTRANCE ROPES untied. </mark>
+# <mark> Stage Is Dim. No Display. Start playing "Adventure Of A Lifetime" instrumental, Building Up until Crescendo, Lights Fade In slowly.. Then Open "Home" Main Display Scene. The family's boat, with ENTRANCE ROPES untied. </mark>
 
 
 ---
@@ -13,7 +13,7 @@
 Good morning, families! *(response)* 
 
 <mark>**Mom:**</mark>  
-I can't hear you‚Äì good morning, families! *(response)*
+I can't hear youñ good morning, families! *(response)*
 
 <mark>**Dad:**</mark>  
 My name is ____FN, LN___, and this is my wife ___FN___. These are our children: __FN__, __FN__, and __FN___. I just have one question for you, families! Who wants to go home?? *(response)* 
@@ -28,7 +28,7 @@ Dad, I'm sure it won't just be new memories they'll be bringing home from the Fa
 Families, it's a long journey ahead of us! There might be a lot of challenges along the way, especially when we try to follow Jesus and be brothers and sisters to one another.
  
 <mark>**Middle:**</mark>  
-But I know that as long as we stay together, no matter the challenges, we can still meet the Lord‚Äîespecially when we serve our families and our community!  
+But I know that as long as we stay together, no matter the challenges, we can still meet the Lordóespecially when we serve our families and our community!  
 
 <mark>**Youngest:**</mark>  
 When life gets tough, we always go back to our family! 
@@ -48,6 +48,6 @@ Let's go!
  
 ---
 
-# <mark> Song: ADVENTURE OF A LIFETIME.  Resume DRUMS AT CLIMAX as intro to ADVENTURE OF A LIFETIME PRE-CHORUS ‚ÄúGod is with us in all we do‚Ä¶‚Äù Enter KPD once song is at fully being played.  The family joins the KPDs in dancing Adventure of a lifetime.  At song fade, Play SFX and Main display "Good Weather". </mark>
+# <mark> Song: ADVENTURE OF A LIFETIME.  Resume DRUMS AT CLIMAX as intro to ADVENTURE OF A LIFETIME PRE-CHORUS ìGod is with us in all we doÖî Enter KPD once song is at fully being played.  The family joins the KPDs in dancing Adventure of a lifetime.  At song fade, Play SFX and Main display "Good Weather". </mark>
 
 ---
