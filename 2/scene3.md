@@ -63,8 +63,7 @@ Yeah! You must be **Mike**, then,  Eldest son of the brother-in-law of my Dad's 
 
 
 <mark>**Caretaker:**</mark>  
-Ah, no... **Kuya Mike** lives abroad now in Irving TX. I'm **Rainier**, the youngest.
-
+Ah, no... **Kuya Mike** now lives in another city, in Irving Texas. I'm **Rainier**, the youngest.
   
 
 <mark>**Dad:**</mark>  

@@ -293,7 +293,7 @@ Well? One of the ways Gpop and Mamita made family time a priority was by making 
 <mark>*(takes the rope from Caretaker)* </mark>Just like this rope, eating together ties our bonds closer to each other. We all go hungry in different ways? physically, emotionally, socially, and even spiritually. But all of them can be fed at the family table.
 
 <mark>**Caretaker:**</mark>  
-Mama and Papa also made us practice regular family mealtime. We prepared meals together, blessed the food, and talked about anything and everything as we ate. Even washing the dishes helped us be present to each other. It makes me value being complete at the dining table, especially now that my **Kuya Mike** lives abroad.
+Mama and Papa also made us practice regular family mealtime. We prepared meals together, blessed the food, and talked about anything and everything as we ate. Even washing the dishes helped us be present to each other. It makes me value being complete at the dining table, especially now that my **Kuya Mike** lives far.
 
 <mark>**Mom:**</mark>  
 **Rain**, I'm sure your kuya treasures those times as well. Because by being present to one another at the dining table, we learn to appreciate even more the Real Presence of Christ in the Eucharist.

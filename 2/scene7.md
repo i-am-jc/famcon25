@@ -1,4 +1,5 @@
 **SCENE 7: CONCLUSION & ACTIVITY**
+
 ---
 <mark>*Main Display: OUTSIDE MODERN HOME.  With the ANCHOR firmly thrown forward, the FAMILY SPEAKER now exits the BOAT through the ROPE ENTRANCES. They stretch and stretch, exhausted from the long journey.* </mark>
 

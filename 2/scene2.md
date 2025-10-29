@@ -69,9 +69,9 @@ Please, not any embarrassing photos, Mama!
 <mark>**Middle:**</mark>  
 <mark>*(sighing to themself)* </mark> I thought this was a family vacation?
   
-  ---  
+---  
 
-<mark>*Eldest shakes their head, stops ROWING, pulls out their phone, and starts scrolling. Seeing the Eldest, Middle pulls out the nintendo switch and starts playing. **SFX THUNDER RUMBLING** in the distance. Display **"DARKENING SKY"** in Main Display* </mark>
+<mark>*Eldest shakes their head, stops ROWING, pulls out their phone, and starts scrolling. Seeing the Eldest, Middle puts on the headphones and start listening to music. **SFX THUNDER RUMBLING** in the distance. Display **"DARKENING SKY"** in Main Display* </mark>
 
 ---
   
@@ -144,7 +144,7 @@ Ok Mommy.
 ---
 <mark> * When Mom leaves, Youngest opens one of their bags and starts eating some chips from a container. Mom sits beside Middle, who has gotten very tired, and helps in ROWING.* </mark>
 
-  ---
+---
   
   
 
@@ -152,10 +152,10 @@ Ok Mommy.
 Let me help you, **Xander**. Are you okay?
 
   
-  ---
+---
 <mark>*Middle is silent, looking sad and withdrawn.*</mark>
 
-  ---
+---
   
   
 
@@ -172,7 +172,7 @@ I understand if that's true, but? you've been saying that for two weeks now. I r
 
 
 <mark>**Eldest:**</mark>  
-Don't mind him, Mommy.  Everyone has bad days. Besides, he's looking for attention 'cause Daddy broke his promise and didn't play **badminton** with us during the vacation.
+Don't mind him, Mommy.  Everyone has bad days. Besides, he's looking for attention 'cause Daddy broke his promise and didn't play **ping pong** with us during the vacation.
 
   
   
@@ -210,7 +210,7 @@ Dad...I think we need to go to his pedia, just to be sure.
   
 
 <mark>**Middle:**</mark>  
-You know we can't afford it, **Jabi**! Here, you can have my scarf to cover you from the rain.
+You know we can't afford it, **Jabi**! Here, you can have my jacket to cover you from the rain.
 
   
 ---
@@ -230,7 +230,7 @@ Wait! I see a mountain up ahead! We can take shelter there for now. Kids, let's 
 **You got it, Dad!**
 
   
-  ---
+---
 <mark>*BAND: Start BASS DRUM beating for added tension / dramatic effect. (8bars). AT RISE: Eldest (left) and Dad (right) row together on the sides. Middle goes to Mom and helps hold down the sails. Youngest goes to the BOAT BOW and looks toward the mountain. All is fine until...*</mark>
 
 <mark>*SFX: Mom's phone rings with a call. She takes it out from her pocket.*</mark>
@@ -248,7 +248,7 @@ Wait! I see a mountain up ahead! We can take shelter there for now. Kids, let's 
 **Mommy, no!**
 
   
-  ---
+---
   <mark>Mom lets go of the rope. She declines the call but starts typing furiously.</mark>
 
 ---
@@ -284,7 +284,7 @@ The fundraiser HAS to be perfect. I can't trust the other volunteers to do thing
 But we need you, Mom!
 
   
-  ---
+---
 <mark>  BASS DRUM grows more urgent. LED: Main LED: SCARY WEATHER WITH MOUNTAIN & BEACH. KPD: SCARY WEATHER (rainy winds, even bigger waves). ONE BIG WAVE.</mark>
 
 ---
@@ -360,7 +360,7 @@ It's too far out now, **Cheska**, there's nothing we can do. We'll figure out yo
 <mark> *(pulling hard on the mast)*</mark> **I think it's gonna rip!**
 
     
- ---
+---
 <mark>*KPD: The SECOND SAIL rips entirely. BAND: BASS DRUM reaches climax. LED: Main LED: SCARY WEATHER WITH BEACH & HOUSE*</mark>
 
 ---
