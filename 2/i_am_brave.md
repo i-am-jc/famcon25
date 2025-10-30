@@ -896,19 +896,8 @@ Back then, you and your family had a prayer time when everyone was present. Whet
 <mark>*(to audience)* </mark> Please raise them high when you find something!
 
 ---
-**#todo, need to figure out how to do this with what is available...**
 
-MAIN Display: LIVING ROOM INSIDE ANCESTRAL HOME
-SIDE LED: Animation of the acronym B.R.A.V.E surrounded by question marks, to indicate that a search is going on. Acronym text must be the same (or recognizably similar) color & font as the actual letters found DOWNSTAGE.
-AT RISE & DOWNSTAGE
-The FAMILY SPEAKER looks around the house (ONSTAGE and DOWNSTAGE) for more items and letter clues.
-Eldest Child finds R attached to a FIRST AID KIT near RIGHT DOWNSTAGE.
-Dad finds A attached to a MAP in CENTER DOWNSTAGE.
-Middle and Youngest Child finds V attached to BATTERIES and FLASHLIGHT in the RIGHT STAGE.
-Mom finds E attached to ROPE in LEFT DOWNSTAGE.
-While everyone looks for the letters and items, Caretaker brings in the ALTAR with the HOLY FAMILY IMAGE to put onstage
-SFX
-POWER UP INSTRUMENTAL
+<mark> **MAIN Display: LIVING ROOM INSIDE ANCESTRAL HOME** with acronym animation of  B.R.A.V.E surrounded by question marks, to indicate that a search is going on. Acronym text must be the same (or recognizably similar) color & font as the actual letters found DOWNSTAGE. The **FAMILY SPEAKER** looks around the house (ONSTAGE and DOWNSTAGE) for more items and letter clues. Eldest Child finds **R attached to a FIRST AID KIT** near RIGHT DOWNSTAGE. Dad finds **A attached to a MAP** in CENTER DOWNSTAGE. Middle and Youngest Child finds **V attached to BATTERIES and FLASHLIGHT** in the RIGHT STAGE. Mom finds **E attached to ROPE** in LEFT DOWNSTAGE. While everyone looks for the letters and items, **Caretaker brings in the ALTAR with the HOLY FAMILY IMAGE** to put onstage. Background Music is **POWER UP** INSTRUMENTAL </mark>
 
 ---
 
