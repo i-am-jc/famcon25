@@ -16,7 +16,7 @@ Good morning, families! <mark>*(response)*</mark>
 I can't hear you!  good morning, families! <mark>*(response)*</mark>
 
 <mark>**Dad:**</mark>  
-My name is ____JC Cepe___, and this is my wife ___Twinkle___. These are our children: __Jabi___, __Xander__, __Cheska__ and last is eldest __Denise__ who is currently "working abroad". I just have one question for you, families! Who wants to go home?? <mark>*(response)*</mark>
+My name is **JC Cepe**, and this is my wife **Twinkle**. These are our children: **Jabi**, **Xander**, **Cheska** and last is eldest **Denise** who is currently "working abroad". I just have one question for you, families! Who wants to go home?? <mark>*(response)*</mark>
 
 <mark>**Dad:**</mark>  
 We also want to go home. We're actually heading home right now, we have our bags packed and ready. How about you, families? Are your bags packed and ready? <mark>*(short response)*</mark>
@@ -38,6 +38,8 @@ That's right! We must remember that it was the Lord who created our families, wh
 
 <mark>**Mom:**</mark>  
 Families, are you ready to go back to our Lord? <mark>*(response)*</mark>
+
+<mark>**Show Session 2 Title Screen**</mark>  
 
 <mark>**All:**</mark>  
 **Let's go!**
@@ -661,7 +663,7 @@ You mean like lessons on how to sail a boat?
 
 <mark>**Dad:**</mark>  
 *(laughing)* Yes! But more importantly, this is where my parents first introduced me to God. This is where they taught me about right and wrong, about loving our neighbor, and that being kind and respectful to others makes Jesus very happy!  <mark>*(proudly)* </mark> This place is my Galilee.
-
+<mark> Revert to Scene Calm Waters (BEACH & HOUSE)</mark>
   
 
 <mark>**Youngest:**</mark>  

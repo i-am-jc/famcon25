@@ -205,7 +205,7 @@ You mean like lessons on how to sail a boat?
 
 <mark>**Dad:**</mark>  
 *(laughing)* Yes! But more importantly, this is where my parents first introduced me to God. This is where they taught me about right and wrong, about loving our neighbor, and that being kind and respectful to others makes Jesus very happy!  <mark>*(proudly)* </mark> This place is my Galilee.
-
+<mark> Revert to Scene Calm Waters (BEACH & HOUSE)</mark>
   
 
 <mark>**Youngest:**</mark>  
