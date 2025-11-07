@@ -1,16 +1,27 @@
+
 **SCENE 6: REALITIES & WAVES**
 
 ---
 
 <mark>*Main Display : DARKENING SKY.  The FAMILY SPEAKER is sailing out on the REBUILT BOAT.  Middle and Eldest ROW at the sides while Dad and Mom are on the BOAT BOW. Youngest is near the BOAT DECK, beside the ALTAR.* </mark>
 
+<mark>Props List</mark>: 
+- **Boat** with <mark>small table for **altar** , **bench/seats** for 5 people, **anchor** hidden inside the boat, Rolled/Folded **Map**  </mark>
+- **Dad** with <mark> FlashLight </mark>, **phone** in pocket
+- **Mom** with <mark> Phone in pocket </mark>
+- **Cheska** with <mark>  Boat Paddle at hand </mark>, **"Band-Aid"** in 1st aid kit
+- **Xander** with <mark>  Boat Paddle at hand </mark> and <mark> Bag #2 with snacks </mark.  
+- **KPD** with <mark>start with gentle waves using table cloth </mark>, Gym bag with shoes floating in the distance
+
 ---
 
 <mark>**Dad:**</mark>  
 What great weather to sail out! Are you guys ready to face the waves?
 
-<mark>**All:**</mark>  
-**Yes Dad! / Aye Aye Captain! / Let's Go!**
+
+<mark>**Jabi:**</mark>  Yes Dad! 
+<mark>**Xander:**</mark>  Aye Aye Captain! 
+<mark>**Cheska:**</mark>  Let's Go!
 
 <mark>**Dad:**</mark>  
 <mark>*(looks out and points to the audience)* </mark> Look, there's a big one coming!

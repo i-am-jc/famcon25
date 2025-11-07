@@ -1,3 +1,4 @@
+
 **SCENE 7: CONCLUSION & ACTIVITY**
 
 ---
@@ -63,16 +64,21 @@ There are 4 boxes in the template. The first box is for IMPORTANT DATES and sche
 The second box is for the family's PLANNED ACTIVITIES. This can be your family vacation, family household, parent and child date, mom and dad date, and others!
 
 <mark>**Youngest:**</mark>  
-The third box is for ACTS OF LOVE AND SERVICE. Plan activities to help others, such as helping clean the grandparents' house, sharing meals with neighbors, and visiting a sick friend at the hospital.
+The third box is for ACTS OF LOVE AND SERVICE. 
+Plan activities to help others, 
+such as helping clean the grandparents' house, 
+sharing meals with neighbors, 
+and visiting a sick friend at the hospital.
 
 <mark>**Mom:**</mark>  
 The last box is called STOP DOING THIS. These are things each family member must stop doing to prioritize and share joy with the family. Some examples are: stop bringing gadgets to the dining table; for mom and dad, stop doing work after office hours; for kids, stop doing extra-curricular activities on Sundays.
 
 <mark>**Dad:**</mark>  
-Is everyone ready? (audience response) Alright! See you in 20 minutes!
+Is everyone ready? (audience response) Alright! See you in  <mark>*20 minutes!* </mark>
 
 ---
 
-<mark> *FAMILY SPEAKER will place the ROWING SEATS by the BOAT DECK so they can be near the IMAGE OF THE HOLY FAMILY. Then the FAMILY SPEAKER will complete the ACTIVITY onstage.*  </mark>
+<mark>  Start **Countdown Timer in Main Screen**.  *FAMILY SPEAKER will place the ROWING SEATS by the BOAT DECK so they can be near the IMAGE OF THE HOLY FAMILY. Then the FAMILY SPEAKER will complete the ACTIVITY onstage.*  </mark>
+
 
 ---

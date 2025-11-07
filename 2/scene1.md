@@ -1,4 +1,5 @@
 
+
 **SCENE 1: INTRO**
 
 ---
@@ -31,7 +32,8 @@ Families, it's a long journey ahead of us! There might be a lot of challenges al
 But I know that as long as we stay together, no matter the challenges, we can still meet the Lord, especially when we serve our families and our community!
 
 <mark>**Youngest:**</mark>  
-When life gets tough, we always go back to our family!
+When life gets tough, 
+we always go back to our family!
 
 <mark>**Dad:**</mark>  
 That's right! We must remember that it was the Lord who created our families, which is why our going back to Him and journeying with Him, blesses us with dignity and responsibility. <mark>*(to audience)*</mark> So families, are you ready to journey with us? <mark>*(response)*</mark>

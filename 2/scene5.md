@@ -1,4 +1,5 @@
-﻿**SCENE 5: HOLY FAMILY & SENDOFF**
+﻿
+**SCENE 5: HOLY FAMILY & SENDOFF**
 
 ---
 
@@ -37,9 +38,9 @@ The realities we faced earlier are just a few of the many challenges that famili
 Just like when He told His disciples: "Do not be afraid, there you will see me." Jesus calls us to be BRAVE because He is always with us!
 
 <mark>**Caretaker:**</mark>  
-Oh tito, that reminds me!   <mark> * (Caretaker retrieves the IMAGE OF THE HOLY FAMILY and gives it to Dad.)* </mark> 
+Oh tito, that reminds me!   
+<mark>  (*Caretaker retrieves the IMAGE OF THE HOLY FAMILY and gives it to Dad.*) </mark> 
 
-<mark>**Caretaker:**</mark>  
 Pursuing holiness as a family is a journey you take together. Each one of you  <mark> *(points to the FAMILY SPEAKER individually)* </mark>  plays a role in facing the challenges you encounter, so you can grow closer to God and one another. So, how can you be BRAVE and overcome your realities as a family?
 
 <mark>**Eldest:**</mark>  

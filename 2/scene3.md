@@ -1,8 +1,11 @@
 
+
+
 **SCENE 3: CARETAKER & GALILEE**
   
 ---
 <mark>*Main LED: CALM WEATHER WITH BEACH & HOUSE. The FAMILY SPEAKER outside their ruined boat.*</mark>
+<mark> Put away the table cloth waves </mark>
 
 ---
   
@@ -106,7 +109,7 @@ Thank you. Cheska, Xander, Jabi, come here... this is your **Tito  Rainier**, Ti
 
 <mark>**Eldest:**</mark>  
 Sure, Dad. Xander, Jabi, let's get something to eat. Hi Tito Rainier! (High Five!)
-  
+
 
 <mark>**Youngest:**</mark>  
 I want to help fix the boat!
@@ -117,7 +120,7 @@ I want to help fix the boat!
 
   ---
 
-<mark>*The ELDEST and MIDDLE Child leave. Mom and the Caretaker move BOAT HULLS and PADDLES. Mom tries to adjust the SAILS.
+<mark>*The ELDEST and MIDDLE Child leave **EXIT RIGHT**. Mom and the Caretaker move BOAT HULLS and PADDLES. Mom tries to adjust the SAILS.
 Dad is visibly frustrated and overwhelmed as he also picks up some of the ROWING SEATS. The YOUNGEST approaches him.*</mark>
 
 ---
@@ -138,12 +141,13 @@ Then why are you so sad? :(
   
 
 <mark>**Dad:**</mark>  
-*(sighing, hugs the YOUNGEST)* Hayyy, Jabi...
+<mark> *(sighing, hugs the YOUNGEST)* </mark>  Hayyy, Jabi...
 
   
 
 <mark>**Youngest:**</mark>  
-We'll make it back, Dad! God will make a way!
+We'll make it back, Dad! 
+God will make a way!
 
   
 
@@ -182,7 +186,8 @@ Yes. It's been so hard to make time for vacations or reunions, with so many thin
   
 
 <mark>**Youngest:**</mark>  
-Really, Dad? Jesus lives here, in your house??
+Really, Dad? 
+Jesus lives here, in your house??
 
   
 
@@ -205,11 +210,13 @@ You mean like lessons on how to sail a boat?
 
 <mark>**Dad:**</mark>  
 *(laughing)* Yes! But more importantly, this is where my parents first introduced me to God. This is where they taught me about right and wrong, about loving our neighbor, and that being kind and respectful to others makes Jesus very happy!  <mark>*(proudly)* </mark> This place is my Galilee.
-<mark> Revert to Scene Calm Waters (BEACH & HOUSE)</mark>
-  
+
+<mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
 
 <mark>**Youngest:**</mark>  
-**Tito Rain**, Dad was very brave! During the storm, he told us: do not be afraid! Didn't Jesus also tell that to His disciples?
+**Tito Rain**, Dad was very brave! 
+During the storm, he told us: do not be afraid! 
+Didn't Jesus also tell that to His disciples?
 
   
 
@@ -219,7 +226,8 @@ Yes! Jesus was also very brave, in telling the people to avoid sin and go back t
   
 
 <mark>**Youngest:**</mark>  
-Dad, what's Galilee? And what does it have to do with Jesus?
+Dad, what's Galilee? 
+And what does it have to do with Jesus?
 
   
   
@@ -239,7 +247,9 @@ Galilee, **Jabi**, is a region in the country of Israel, where Jesus began His m
   
 
 <mark>**Youngest:**</mark>  
-That's so cool, Dada! Mommy, can we go to Galilee for our next family vacation? I want to meet Jesus!
+That's so cool, Dada! 
+Mommy, can we go to Galilee for our next family vacation? 
+I want to meet Jesus!
 
   
 
@@ -250,20 +260,28 @@ Oh! I wish we could. But we don't have to fly or sail to Israel to meet Jesus. G
 <mark>**Dad:**</mark>  
 That's right. Galilee can be where God calls us to be a good friend, a helpful classmate, or a kind brother and sister to our siblings. Sometimes, Galilee refers to the moments when God calls us on a specific mission: to love other people, serve the community, or help those in need.
 
-  
+<mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
+
 
 <mark>**Youngest:**</mark>  
-Dad, remember our camping trip last year with other kids and their fathers? There was a part we were both crying good tears, because we were talking about big feelings. I really loved that time with you. Was Jesus with us in that camping trip? 
-  
+Dad, remember our camping trip last year with other kids and their fathers? 
+There was a part we were both crying good tears, 
+because we were talking about big feelings. 
+I really loved that time with you. 
+Was Jesus with us in that camping trip? 
+
+<mark>**Dad:**</mark>  
+<mark>*(hugs the Youngest)*</mark> I really believe so, **Jabi**. 
+
+
 ---
 <mark> **LED STATIC SPLASH TEXT:**</mark>
 <mark>"Our family is a place of encounter with God. Love is experienced and nurtured in the daily lives of couples and their children." ...Familiaris Consortio </mark>
 
 ---
-  
 
 <mark>**Dad:**</mark>  
-<mark>*(hugs the Youngest)*</mark> I really believe so, **Jabi**. The family is where we share and grow in faith. Remember your **kuya Xander**'s favorite Bible verse? Love is patient, love is kind...
+The family is where we share and grow in faith. Remember your **kuya Xander**'s favorite Bible verse? Love is patient, love is kind...
 
   
 
@@ -273,22 +291,21 @@ I know that! Love is not jealous, love is not proud. Love doesn't get angry easi
   
 
 <mark>**Mom:**</mark>  
-...And love always trusts, always hopes, and always perseveres. Very good, **Jabi**. *<mark>(to audience)*</mark> The family is where each member can experience and be strengthened by love. That's why the family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones.
-
+...And love always trusts, always hopes, and always perseveres. Very good, **Jabi**. *<mark>(to audience)*</mark> The family is where each member can experience and be strengthened by love. That's why...
   
   
 ---
-<mark>**LED STATIC SPLASH TEXT:** (more emphasis: vibrant graphics, looping animations, etc)  "The family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones." </mark>
+<mark>**LED STATIC SPLASH TEXT:**  "The family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones." </mark>
 
 ---
-  
 
 <mark>**Mom:**</mark>  
+... the family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones.
 That's why when we experience today's challenges, Jesus calls us back to our Galilee...to go home and encounter God again through our family. And even in our ordinary moments together, we and our children can grow in faith as we strive to follow Jesus every day.
 
   
-
 ---
+<mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
 <mark>*The Caretaker places a ROWING SEAT near Mom and Dad.* </mark>
 
 ---
@@ -340,6 +357,7 @@ Me too! We'll face a lot more challenges as we head back to our own home, but I 
 <mark>**All:**</mark>  
 **Amen!**
 
+<mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
   
 
 <mark>**Caretaker:**</mark>  
@@ -353,7 +371,8 @@ Sure, Rainier! I bet Cheska and Xander are well-rested by now. Jabi, do you want
   
 
 <mark>**Youngest:**</mark>  
-No thanks, Dad. I want to go exploring!!
+No thanks, Dad. 
+I want to go exploring!!
 
   
 
@@ -362,6 +381,6 @@ Alright, then. Let's find a way to fix our boat!
 
   
 ---
-<mark> ***Dad, Mom, Youngest, and Caretaker EXIT.*** </mark>
+<mark> **Dad, Mom, Youngest**, and **Caretaker** **EXIT LEFT** </mark>
 
 ---

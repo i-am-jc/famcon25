@@ -1,3 +1,4 @@
+
 **SCENE 2: REALITIES & BAD WEATHER**
  
 
@@ -6,7 +7,14 @@
 
 <mark>*Main LED and SFX: GOOD WEATHER. The FAMILY SPEAKER inside their boat. Dad and MIDDLE CHILD are ROWING at the sides. Mom, ELDEST, and YOUNGEST are on the BOAT DECK, sorting their luggage.* </mark>
 
-  
+<mark>Props List</mark>: 
+- **Boat** with <mark>small table, bench/seats for 5 people, anchor hidden inside the boat  </mark>
+- **Dad** with <mark>Phone in Pocket, Boat Paddle at hand </mark>
+- **Mom** with <mark>small bag, Phone in Pocket, Boat Paddle at hand </mark> 
+- **Cheska** with <mark> Gym bag and soccer shoes </mark>
+- **Xander** with <mark>Sweater, Headphones around neck, boat paddle at hand </mark>
+- **Jabi** with <mark>bag with snacks </mark>
+- **KPD** with <mark>gentle waves using table cloth </mark>
 
 ---
 
@@ -41,7 +49,7 @@ Please, not any embarrassing photos, Mama!
 ---
 
 <mark>**Dad:**</mark>  
-[Eldest], can you take over here for a minute? I need to answer this quickly.
+**Cheska**, can you take over here for a minute? I need to answer this quickly.
   
 
 <mark>**Eldest:**</mark>  
@@ -197,7 +205,9 @@ Dad...I think we need to go to his pedia, just to be sure.
 ---  
 
 <mark>**Youngest:**</mark>  
-<mark>*(tantrums)*</mark> Haay Naku! My snacks! <mark>*(pulls at Eldest's arm)*</mark> **Ate Cheska** , we have to get them back!!
+<mark>*(tantrums)*</mark> Haay Naku! 
+My snacks! <mark>*(pulls at Eldest's arm)*</mark> 
+**Ate Cheska** , we have to get them back!!
 
 
 <mark>**Eldest:**</mark>  
@@ -205,7 +215,8 @@ Dad...I think we need to go to his pedia, just to be sure.
   
 
 <mark>**Youngest:**</mark>  
-<mark> *(tantrums)*</mark> Now I'm getting wet from the rain! Why can't we fly home instead of sailing?!
+<mark> *(tantrums)*</mark> Now I'm getting wet from the rain! 
+Why can't we fly home instead of sailing?!
 
   
 
@@ -367,7 +378,8 @@ It's too far out now, **Cheska**, there's nothing we can do. We'll figure out yo
   
 
 <mark>**Youngest:**</mark>  
-Ay Naku! Our sails are broken!!
+Ay Naku! 
+Our sails are broken!!
 
   
   

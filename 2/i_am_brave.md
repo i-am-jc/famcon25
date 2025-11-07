@@ -1,4 +1,5 @@
 
+
 **SCENE 1: INTRO**
 
 ---
@@ -31,7 +32,8 @@ Families, it's a long journey ahead of us! There might be a lot of challenges al
 But I know that as long as we stay together, no matter the challenges, we can still meet the Lord, especially when we serve our families and our community!
 
 <mark>**Youngest:**</mark>  
-When life gets tough, we always go back to our family!
+When life gets tough, 
+we always go back to our family!
 
 <mark>**Dad:**</mark>  
 That's right! We must remember that it was the Lord who created our families, which is why our going back to Him and journeying with Him, blesses us with dignity and responsibility. <mark>*(to audience)*</mark> So families, are you ready to journey with us? <mark>*(response)*</mark>
@@ -61,6 +63,7 @@ Families, are you ready to go back to our Lord? <mark>*(response)*</mark>
 
 ---  
   
+
 **SCENE 2: REALITIES & BAD WEATHER**
  
 
@@ -69,7 +72,14 @@ Families, are you ready to go back to our Lord? <mark>*(response)*</mark>
 
 <mark>*Main LED and SFX: GOOD WEATHER. The FAMILY SPEAKER inside their boat. Dad and MIDDLE CHILD are ROWING at the sides. Mom, ELDEST, and YOUNGEST are on the BOAT DECK, sorting their luggage.* </mark>
 
-  
+<mark>Props List</mark>: 
+- **Boat** with <mark>small table, bench/seats for 5 people, anchor hidden inside the boat  </mark>
+- **Dad** with <mark>Phone in Pocket, Boat Paddle at hand </mark>
+- **Mom** with <mark>small bag, Phone in Pocket, Boat Paddle at hand </mark> 
+- **Cheska** with <mark> Gym bag and soccer shoes </mark>
+- **Xander** with <mark>Sweater, Headphones around neck, boat paddle at hand </mark>
+- **Jabi** with <mark>bag with snacks </mark>
+- **KPD** with <mark>gentle waves using table cloth </mark>
 
 ---
 
@@ -104,7 +114,7 @@ Please, not any embarrassing photos, Mama!
 ---
 
 <mark>**Dad:**</mark>  
-[Eldest], can you take over here for a minute? I need to answer this quickly.
+**Cheska**, can you take over here for a minute? I need to answer this quickly.
   
 
 <mark>**Eldest:**</mark>  
@@ -260,7 +270,9 @@ Dad...I think we need to go to his pedia, just to be sure.
 ---  
 
 <mark>**Youngest:**</mark>  
-<mark>*(tantrums)*</mark> Haay Naku! My snacks! <mark>*(pulls at Eldest's arm)*</mark> **Ate Cheska** , we have to get them back!!
+<mark>*(tantrums)*</mark> Haay Naku! 
+My snacks! <mark>*(pulls at Eldest's arm)*</mark> 
+**Ate Cheska** , we have to get them back!!
 
 
 <mark>**Eldest:**</mark>  
@@ -268,7 +280,8 @@ Dad...I think we need to go to his pedia, just to be sure.
   
 
 <mark>**Youngest:**</mark>  
-<mark> *(tantrums)*</mark> Now I'm getting wet from the rain! Why can't we fly home instead of sailing?!
+<mark> *(tantrums)*</mark> Now I'm getting wet from the rain! 
+Why can't we fly home instead of sailing?!
 
   
 
@@ -430,7 +443,8 @@ It's too far out now, **Cheska**, there's nothing we can do. We'll figure out yo
   
 
 <mark>**Youngest:**</mark>  
-Ay Naku! Our sails are broken!!
+Ay Naku! 
+Our sails are broken!!
 
   
   
@@ -457,10 +471,13 @@ One, two, three... throw!
 <mark>*BAND: BASS DRUM reaches climax. SFX: Waves washing over the shore. LED: Main LED: CALM WEATHER WITH BEACH & HOUSE. The BOAT runs aground, and from the BOW, everyone stumbles but doesn't fall.*</mark>  
   
 
+
+
 **SCENE 3: CARETAKER & GALILEE**
   
 ---
 <mark>*Main LED: CALM WEATHER WITH BEACH & HOUSE. The FAMILY SPEAKER outside their ruined boat.*</mark>
+<mark> Put away the table cloth waves </mark>
 
 ---
   
@@ -564,7 +581,7 @@ Thank you. Cheska, Xander, Jabi, come here... this is your **Tito  Rainier**, Ti
 
 <mark>**Eldest:**</mark>  
 Sure, Dad. Xander, Jabi, let's get something to eat. Hi Tito Rainier! (High Five!)
-  
+
 
 <mark>**Youngest:**</mark>  
 I want to help fix the boat!
@@ -575,7 +592,7 @@ I want to help fix the boat!
 
   ---
 
-<mark>*The ELDEST and MIDDLE Child leave. Mom and the Caretaker move BOAT HULLS and PADDLES. Mom tries to adjust the SAILS.
+<mark>*The ELDEST and MIDDLE Child leave **EXIT RIGHT**. Mom and the Caretaker move BOAT HULLS and PADDLES. Mom tries to adjust the SAILS.
 Dad is visibly frustrated and overwhelmed as he also picks up some of the ROWING SEATS. The YOUNGEST approaches him.*</mark>
 
 ---
@@ -596,12 +613,13 @@ Then why are you so sad? :(
   
 
 <mark>**Dad:**</mark>  
-*(sighing, hugs the YOUNGEST)* Hayyy, Jabi...
+<mark> *(sighing, hugs the YOUNGEST)* </mark>  Hayyy, Jabi...
 
   
 
 <mark>**Youngest:**</mark>  
-We'll make it back, Dad! God will make a way!
+We'll make it back, Dad! 
+God will make a way!
 
   
 
@@ -640,7 +658,8 @@ Yes. It's been so hard to make time for vacations or reunions, with so many thin
   
 
 <mark>**Youngest:**</mark>  
-Really, Dad? Jesus lives here, in your house??
+Really, Dad? 
+Jesus lives here, in your house??
 
   
 
@@ -663,11 +682,13 @@ You mean like lessons on how to sail a boat?
 
 <mark>**Dad:**</mark>  
 *(laughing)* Yes! But more importantly, this is where my parents first introduced me to God. This is where they taught me about right and wrong, about loving our neighbor, and that being kind and respectful to others makes Jesus very happy!  <mark>*(proudly)* </mark> This place is my Galilee.
-<mark> Revert to Scene Calm Waters (BEACH & HOUSE)</mark>
-  
+
+<mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
 
 <mark>**Youngest:**</mark>  
-**Tito Rain**, Dad was very brave! During the storm, he told us: do not be afraid! Didn't Jesus also tell that to His disciples?
+**Tito Rain**, Dad was very brave! 
+During the storm, he told us: do not be afraid! 
+Didn't Jesus also tell that to His disciples?
 
   
 
@@ -677,7 +698,8 @@ Yes! Jesus was also very brave, in telling the people to avoid sin and go back t
   
 
 <mark>**Youngest:**</mark>  
-Dad, what's Galilee? And what does it have to do with Jesus?
+Dad, what's Galilee? 
+And what does it have to do with Jesus?
 
   
   
@@ -697,7 +719,9 @@ Galilee, **Jabi**, is a region in the country of Israel, where Jesus began His m
   
 
 <mark>**Youngest:**</mark>  
-That's so cool, Dada! Mommy, can we go to Galilee for our next family vacation? I want to meet Jesus!
+That's so cool, Dada! 
+Mommy, can we go to Galilee for our next family vacation? 
+I want to meet Jesus!
 
   
 
@@ -708,20 +732,28 @@ Oh! I wish we could. But we don't have to fly or sail to Israel to meet Jesus. G
 <mark>**Dad:**</mark>  
 That's right. Galilee can be where God calls us to be a good friend, a helpful classmate, or a kind brother and sister to our siblings. Sometimes, Galilee refers to the moments when God calls us on a specific mission: to love other people, serve the community, or help those in need.
 
-  
+<mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
+
 
 <mark>**Youngest:**</mark>  
-Dad, remember our camping trip last year with other kids and their fathers? There was a part we were both crying good tears, because we were talking about big feelings. I really loved that time with you. Was Jesus with us in that camping trip? 
-  
+Dad, remember our camping trip last year with other kids and their fathers? 
+There was a part we were both crying good tears, 
+because we were talking about big feelings. 
+I really loved that time with you. 
+Was Jesus with us in that camping trip? 
+
+<mark>**Dad:**</mark>  
+<mark>*(hugs the Youngest)*</mark> I really believe so, **Jabi**. 
+
+
 ---
 <mark> **LED STATIC SPLASH TEXT:**</mark>
 <mark>"Our family is a place of encounter with God. Love is experienced and nurtured in the daily lives of couples and their children." ...Familiaris Consortio </mark>
 
 ---
-  
 
 <mark>**Dad:**</mark>  
-<mark>*(hugs the Youngest)*</mark> I really believe so, **Jabi**. The family is where we share and grow in faith. Remember your **kuya Xander**'s favorite Bible verse? Love is patient, love is kind...
+The family is where we share and grow in faith. Remember your **kuya Xander**'s favorite Bible verse? Love is patient, love is kind...
 
   
 
@@ -731,22 +763,21 @@ I know that! Love is not jealous, love is not proud. Love doesn't get angry easi
   
 
 <mark>**Mom:**</mark>  
-...And love always trusts, always hopes, and always perseveres. Very good, **Jabi**. *<mark>(to audience)*</mark> The family is where each member can experience and be strengthened by love. That's why the family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones.
-
+...And love always trusts, always hopes, and always perseveres. Very good, **Jabi**. *<mark>(to audience)*</mark> The family is where each member can experience and be strengthened by love. That's why...
   
   
 ---
-<mark>**LED STATIC SPLASH TEXT:** (more emphasis: vibrant graphics, looping animations, etc)  "The family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones." </mark>
+<mark>**LED STATIC SPLASH TEXT:**  "The family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones." </mark>
 
 ---
-  
 
 <mark>**Mom:**</mark>  
+... the family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones.
 That's why when we experience today's challenges, Jesus calls us back to our Galilee...to go home and encounter God again through our family. And even in our ordinary moments together, we and our children can grow in faith as we strive to follow Jesus every day.
 
   
-
 ---
+<mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
 <mark>*The Caretaker places a ROWING SEAT near Mom and Dad.* </mark>
 
 ---
@@ -798,6 +829,7 @@ Me too! We'll face a lot more challenges as we head back to our own home, but I 
 <mark>**All:**</mark>  
 **Amen!**
 
+<mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
   
 
 <mark>**Caretaker:**</mark>  
@@ -811,7 +843,8 @@ Sure, Rainier! I bet Cheska and Xander are well-rested by now. Jabi, do you want
   
 
 <mark>**Youngest:**</mark>  
-No thanks, Dad. I want to go exploring!!
+No thanks, Dad. 
+I want to go exploring!!
 
   
 
@@ -820,14 +853,25 @@ Alright, then. Let's find a way to fix our boat!
 
   
 ---
-<mark> ***Dad, Mom, Youngest, and Caretaker EXIT.*** </mark>
+<mark> **Dad, Mom, Youngest**, and **Caretaker** **EXIT LEFT** </mark>
 
 ---  
   
+
 **SCENE 4: B.R.A.V.E.**
 
 ---
 <mark> *MAIN Display : LIVING ROOM INSIDE ANCESTRAL HOME.  Middle and Eldest Child ENTER from the opposite sides of the stage. Middle is holding a SAIL REPAIR KIT and a large LETTER B.* </mark>
+
+
+<mark>**Props List**</mark>: 
+- **Xander** with <mark> **letter "B"** with Sail Repair Kit </mark>
+- **Caretaker**:  <mark> **HOLY FAMILY IMAGE**  </mark> brought in when we search for the **BRAVE** letters
+- **KPD** ensure <mark> letters **R. A. V. E.** are scattered <mark> with the audience 
+- R attached to a **FIRST AID KIT** 
+- A attached to a  **MAP** 
+- V attached to **BATTERIES and FLASHLIGHT** 
+- E attached to a **ROPE**
 
 ---
 
@@ -899,7 +943,7 @@ Back then, you and your family had a prayer time when everyone was present. Whet
 
 ---
 
-<mark> **MAIN Display: LIVING ROOM INSIDE ANCESTRAL HOME** with acronym animation of  B.R.A.V.E surrounded by question marks, to indicate that a search is going on. Acronym text must be the same (or recognizably similar) color & font as the actual letters found DOWNSTAGE. The **FAMILY SPEAKER** looks around the house (ONSTAGE and DOWNSTAGE) for more items and letter clues. Eldest Child finds **R attached to a FIRST AID KIT** near RIGHT DOWNSTAGE. Dad finds **A attached to a MAP** in CENTER DOWNSTAGE. Middle and Youngest Child finds **V attached to BATTERIES and FLASHLIGHT** in the RIGHT STAGE. Mom finds **E attached to ROPE** in LEFT DOWNSTAGE. While everyone looks for the letters and items, **Caretaker brings in the ALTAR with the HOLY FAMILY IMAGE** to put onstage. Background Music is **POWER UP** INSTRUMENTAL </mark>
+<mark> **MAIN Display: LIVING ROOM INSIDE ANCESTRAL HOME** with acronym animation of  B.R.A.V.E surrounded by question marks, to indicate that a search is going on. Acronym text must be the same (or recognizably similar) color & font as the actual letters found DOWNSTAGE. The **FAMILY SPEAKER** looks around the house. **Background Music** is **POWER UP** INSTRUMENTAL </mark>
 
 ---
 
@@ -924,6 +968,12 @@ I found something too! Is **Ate Cheska** still looking?
 ---
 
 <mark> *Family Speaker can do more adlib while searching, until they all find the ITEMS and LETTER CLUES.*  </mark>
+
+**Dad** finds **A attached to a MAP** in CENTER DOWNSTAGE. 
+**Mom** finds **E attached to ROPE**
+**Eldest** Child finds **R attached to a FIRST AID KIT** 
+**Middle** and **Youngest** Child finds **V attached to BATTERIES and FLASHLIGHT**
+**Caretaker** brings in the <mark> ALTAR with the HOLY FAMILY IMAGE </mark> 
 
 ---
 
@@ -1122,7 +1172,8 @@ Mama and Papa also made us practice regular family mealtime. We prepared meals t
 
 ---  
   
-﻿**SCENE 5: HOLY FAMILY & SENDOFF**
+﻿
+**SCENE 5: HOLY FAMILY & SENDOFF**
 
 ---
 
@@ -1161,9 +1212,9 @@ The realities we faced earlier are just a few of the many challenges that famili
 Just like when He told His disciples: "Do not be afraid, there you will see me." Jesus calls us to be BRAVE because He is always with us!
 
 <mark>**Caretaker:**</mark>  
-Oh tito, that reminds me!   <mark> * (Caretaker retrieves the IMAGE OF THE HOLY FAMILY and gives it to Dad.)* </mark> 
+Oh tito, that reminds me!   
+<mark>  (*Caretaker retrieves the IMAGE OF THE HOLY FAMILY and gives it to Dad.*) </mark> 
 
-<mark>**Caretaker:**</mark>  
 Pursuing holiness as a family is a journey you take together. Each one of you  <mark> *(points to the FAMILY SPEAKER individually)* </mark>  plays a role in facing the challenges you encounter, so you can grow closer to God and one another. So, how can you be BRAVE and overcome your realities as a family?
 
 <mark>**Eldest:**</mark>  
@@ -1239,19 +1290,30 @@ Good and holy, it's time for us to... (be not afraid)
 Good and holy, let's be good and holy  
 Good and holy, it's time for us to be brave!    
   
+
 **SCENE 6: REALITIES & WAVES**
 
 ---
 
 <mark>*Main Display : DARKENING SKY.  The FAMILY SPEAKER is sailing out on the REBUILT BOAT.  Middle and Eldest ROW at the sides while Dad and Mom are on the BOAT BOW. Youngest is near the BOAT DECK, beside the ALTAR.* </mark>
 
+<mark>Props List</mark>: 
+- **Boat** with <mark>small table for **altar** , **bench/seats** for 5 people, **anchor** hidden inside the boat, Rolled/Folded **Map**  </mark>
+- **Dad** with <mark> FlashLight </mark>, **phone** in pocket
+- **Mom** with <mark> Phone in pocket </mark>
+- **Cheska** with <mark>  Boat Paddle at hand </mark>, **"Band-Aid"** in 1st aid kit
+- **Xander** with <mark>  Boat Paddle at hand </mark> and <mark> Bag #2 with snacks </mark.  
+- **KPD** with <mark>start with gentle waves using table cloth </mark>, Gym bag with shoes floating in the distance
+
 ---
 
 <mark>**Dad:**</mark>  
 What great weather to sail out! Are you guys ready to face the waves?
 
-<mark>**All:**</mark>  
-**Yes Dad! / Aye Aye Captain! / Let's Go!**
+
+<mark>**Jabi:**</mark>  Yes Dad! 
+<mark>**Xander:**</mark>  Aye Aye Captain! 
+<mark>**Cheska:**</mark>  Let's Go!
 
 <mark>**Dad:**</mark>  
 <mark>*(looks out and points to the audience)* </mark> Look, there's a big one coming!
@@ -1399,6 +1461,7 @@ Almost there, one last wave!! Back to front, now!
 
 ---  
   
+
 **SCENE 7: CONCLUSION & ACTIVITY**
 
 ---
@@ -1464,17 +1527,22 @@ There are 4 boxes in the template. The first box is for IMPORTANT DATES and sche
 The second box is for the family's PLANNED ACTIVITIES. This can be your family vacation, family household, parent and child date, mom and dad date, and others!
 
 <mark>**Youngest:**</mark>  
-The third box is for ACTS OF LOVE AND SERVICE. Plan activities to help others, such as helping clean the grandparents' house, sharing meals with neighbors, and visiting a sick friend at the hospital.
+The third box is for ACTS OF LOVE AND SERVICE. 
+Plan activities to help others, 
+such as helping clean the grandparents' house, 
+sharing meals with neighbors, 
+and visiting a sick friend at the hospital.
 
 <mark>**Mom:**</mark>  
 The last box is called STOP DOING THIS. These are things each family member must stop doing to prioritize and share joy with the family. Some examples are: stop bringing gadgets to the dining table; for mom and dad, stop doing work after office hours; for kids, stop doing extra-curricular activities on Sundays.
 
 <mark>**Dad:**</mark>  
-Is everyone ready? (audience response) Alright! See you in 20 minutes!
+Is everyone ready? (audience response) Alright! See you in  <mark>*20 minutes!* </mark>
 
 ---
 
-<mark> *FAMILY SPEAKER will place the ROWING SEATS by the BOAT DECK so they can be near the IMAGE OF THE HOLY FAMILY. Then the FAMILY SPEAKER will complete the ACTIVITY onstage.*  </mark>
+<mark>  Start **Countdown Timer in Main Screen**.  *FAMILY SPEAKER will place the ROWING SEATS by the BOAT DECK so they can be near the IMAGE OF THE HOLY FAMILY. Then the FAMILY SPEAKER will complete the ACTIVITY onstage.*  </mark>
+
 
 ---  
   

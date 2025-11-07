@@ -1,7 +1,18 @@
+
 **SCENE 4: B.R.A.V.E.**
 
 ---
 <mark> *MAIN Display : LIVING ROOM INSIDE ANCESTRAL HOME.  Middle and Eldest Child ENTER from the opposite sides of the stage. Middle is holding a SAIL REPAIR KIT and a large LETTER B.* </mark>
+
+
+<mark>**Props List**</mark>: 
+- **Xander** with <mark> **letter "B"** with Sail Repair Kit </mark>
+- **Caretaker**:  <mark> **HOLY FAMILY IMAGE**  </mark> brought in when we search for the **BRAVE** letters
+- **KPD** ensure <mark> letters **R. A. V. E.** are scattered <mark> with the audience 
+- R attached to a **FIRST AID KIT** 
+- A attached to a  **MAP** 
+- V attached to **BATTERIES and FLASHLIGHT** 
+- E attached to a **ROPE**
 
 ---
 
@@ -73,7 +84,7 @@ Back then, you and your family had a prayer time when everyone was present. Whet
 
 ---
 
-<mark> **MAIN Display: LIVING ROOM INSIDE ANCESTRAL HOME** with acronym animation of  B.R.A.V.E surrounded by question marks, to indicate that a search is going on. Acronym text must be the same (or recognizably similar) color & font as the actual letters found DOWNSTAGE. The **FAMILY SPEAKER** looks around the house (ONSTAGE and DOWNSTAGE) for more items and letter clues. Eldest Child finds **R attached to a FIRST AID KIT** near RIGHT DOWNSTAGE. Dad finds **A attached to a MAP** in CENTER DOWNSTAGE. Middle and Youngest Child finds **V attached to BATTERIES and FLASHLIGHT** in the RIGHT STAGE. Mom finds **E attached to ROPE** in LEFT DOWNSTAGE. While everyone looks for the letters and items, **Caretaker brings in the ALTAR with the HOLY FAMILY IMAGE** to put onstage. Background Music is **POWER UP** INSTRUMENTAL </mark>
+<mark> **MAIN Display: LIVING ROOM INSIDE ANCESTRAL HOME** with acronym animation of  B.R.A.V.E surrounded by question marks, to indicate that a search is going on. Acronym text must be the same (or recognizably similar) color & font as the actual letters found DOWNSTAGE. The **FAMILY SPEAKER** looks around the house. **Background Music** is **POWER UP** INSTRUMENTAL </mark>
 
 ---
 
@@ -98,6 +109,12 @@ I found something too! Is **Ate Cheska** still looking?
 ---
 
 <mark> *Family Speaker can do more adlib while searching, until they all find the ITEMS and LETTER CLUES.*  </mark>
+
+**Dad** finds **A attached to a MAP** in CENTER DOWNSTAGE. 
+**Mom** finds **E attached to ROPE**
+**Eldest** Child finds **R attached to a FIRST AID KIT** 
+**Middle** and **Youngest** Child finds **V attached to BATTERIES and FLASHLIGHT**
+**Caretaker** brings in the <mark> ALTAR with the HOLY FAMILY IMAGE </mark> 
 
 ---
 
