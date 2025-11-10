@@ -1,4 +1,4 @@
-ï»¿
+
 **SCENE 5: HOLY FAMILY & SENDOFF**
 
 ---
@@ -23,16 +23,16 @@ But will these tools be enough when we face those giant waves?
 Yeah, what if our boat gets ruined again?
 
 <mark>**Caretaker:**</mark>  
-You know kids, waves can be big and scaryâ€”but they can also be big and FUN! Especially if you face it together as a family and with Jesus!
+You know kids, waves can be big and scary—but they can also be big and FUN! Especially if you face it together as a family and with Jesus!
 
 ---
 <mark> ***LED STATIC SPLASH TEXT:** </mark> 
-<mark> "Everyone must consider his every neighbor without exception as another self, taking into account first of all His life and the means necessary to living it with dignity" â€”Gaudium et Spes 27*</mark> 
+<mark> "Everyone must consider his every neighbor without exception as another self, taking into account first of all His life and the means necessary to living it with dignity" —Gaudium et Spes 27*</mark> 
 
 ---
 
 <mark>**Mom:**</mark>  
-The realities we faced earlier are just a few of the many challenges that families face today. When fears come our way, Jesus invites us to go back to our Galilee, where He can meet us and strengthen us again. And the familyâ€” our family, is our first Galilee.
+The realities we faced earlier are just a few of the many challenges that families face today. When fears come our way, Jesus invites us to go back to our Galilee, where He can meet us and strengthen us again. And the family— our family, is our first Galilee.
 
 <mark>**Dad:**</mark>  
 Just like when He told His disciples: "Do not be afraid, there you will see me." Jesus calls us to be BRAVE because He is always with us!
@@ -61,7 +61,7 @@ And we'll make God the center of our family, no matter the challenges.
 ---
 
 <mark> **LED STATIC SPLASH TEXT:**</mark> 
-<mark> *"Being a Christian family does not automatically guarantee the absence of trials. But through such trials, the family itself can be strengthened and, with the support of pastoral care, led to recognize its fundamental vocation in God's plan." â€”Synod of Bishops, 2014*</mark> 
+<mark> *"Being a Christian family does not automatically guarantee the absence of trials. But through such trials, the family itself can be strengthened and, with the support of pastoral care, led to recognize its fundamental vocation in God's plan." —Synod of Bishops, 2014*</mark> 
 
 ---
 
@@ -77,7 +77,7 @@ And we'll make God the center of our family, no matter the challenges.
 Thank you for this, **Rainier**. No matter what we go through, our family will remember that Jesus is always with us.
 
 <mark>**Mom:**</mark>  
-For now, we must return to our Galileeâ€” our own households. Kids, are you ready to go home?
+For now, we must return to our Galilee— our own households. Kids, are you ready to go home?
 
 <mark>**Children:**</mark>  
 **Yes!**

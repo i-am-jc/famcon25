@@ -6,9 +6,15 @@
 
 <mark> *Stage Is Dim. No Display. Start playing "Adventure Of A Lifetime" instrumental, Building Up until Crescendo, Lights Fade In slowly.. Then Open "Home" Main Display Scene. The family's boat, with ENTRANCE ROPES untied.* </mark>
 
+<mark>Props List</mark>: 
+- **Dad** with <mark>Phone in Pocket, Boat Paddle at hand </mark>
+- **Mom** with <mark>Phone in Pocket</mark> 
+- **Cheska** with <mark> Gym bag and soccer shoes </mark>
+- **Xander** with <mark>Sweater, Headphones around neck, boat paddle at hand </mark>
+- **Jabi** with <mark>bag with snacks </mark>
 
 ---
-  
+ 
 
 <mark>**Dad:**</mark>  
 Good morning, families! <mark>*(response)*</mark>
@@ -23,7 +29,7 @@ My name is **JC Cepe**, and this is my wife **Twinkle**. These are our children:
 We also want to go home. We're actually heading home right now, we have our bags packed and ready. How about you, families? Are your bags packed and ready? <mark>*(short response)*</mark>
 
 <mark>**Mom:**</mark>  
-Dad, I'm sure it won't just be new memories they'll be bringing home from the FamCon. I learned yesterday that we have a beautiful purpose in God's plan, and we have to remember that! Families, have you gotten some souvenirs? <mark>*(short response)*</mark> How about some souvenir gifts for your loved ones? <mark>*(short response)*</mark>
+Dad, I'm sure it won't just be new memories they'll be bringing home from the FamCon. I learned yesterday that we have a beautiful purpose in God's plan, and we have to remember that! Families, were you able to take lots of pictures? <mark>*(short response)*</mark> Did you all enjoy the family got talent yesterday? <mark>*(short response)*</mark>
 
 <mark>**Eldest:**</mark>  
 Families, it's a long journey ahead of us! There might be a lot of challenges along the way, especially when we try to follow Jesus and be brothers and sisters to one another.
@@ -45,20 +51,13 @@ Families, are you ready to go back to our Lord? <mark>*(response)*</mark>
 
 <mark>**All:**</mark>  
 **Let's go!**
-
   
 ---  
 
-
 <mark> *The FAMILY SPEAKER enters the boat through the ENTRANCE ROPES, and ties them securely to close the BOAT.* </mark>
-  
 
 ---
 
-  
-
 <mark> ***Song**: ADVENTURE OF A LIFETIME. Resume DRUMS AT CLIMAX as intro to ADVENTURE OF A LIFETIME PRE-CHORUS "God is with us in all we do" ... Enter KPD once song is at fully being played. The family joins the KPDs in dancing Adventure of a lifetime. At song fade, Play SFX and Main display "Good Weather".* </mark>
-
-  
 
 ---

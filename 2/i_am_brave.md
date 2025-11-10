@@ -6,9 +6,15 @@
 
 <mark> *Stage Is Dim. No Display. Start playing "Adventure Of A Lifetime" instrumental, Building Up until Crescendo, Lights Fade In slowly.. Then Open "Home" Main Display Scene. The family's boat, with ENTRANCE ROPES untied.* </mark>
 
+<mark>Props List</mark>: 
+- **Dad** with <mark>Phone in Pocket, Boat Paddle at hand </mark>
+- **Mom** with <mark>Phone in Pocket</mark> 
+- **Cheska** with <mark> Gym bag and soccer shoes </mark>
+- **Xander** with <mark>Sweater, Headphones around neck, boat paddle at hand </mark>
+- **Jabi** with <mark>bag with snacks </mark>
 
 ---
-  
+ 
 
 <mark>**Dad:**</mark>  
 Good morning, families! <mark>*(response)*</mark>
@@ -23,7 +29,7 @@ My name is **JC Cepe**, and this is my wife **Twinkle**. These are our children:
 We also want to go home. We're actually heading home right now, we have our bags packed and ready. How about you, families? Are your bags packed and ready? <mark>*(short response)*</mark>
 
 <mark>**Mom:**</mark>  
-Dad, I'm sure it won't just be new memories they'll be bringing home from the FamCon. I learned yesterday that we have a beautiful purpose in God's plan, and we have to remember that! Families, have you gotten some souvenirs? <mark>*(short response)*</mark> How about some souvenir gifts for your loved ones? <mark>*(short response)*</mark>
+Dad, I'm sure it won't just be new memories they'll be bringing home from the FamCon. I learned yesterday that we have a beautiful purpose in God's plan, and we have to remember that! Families, were you able to take lots of pictures? <mark>*(short response)*</mark> Did you all enjoy the family got talent yesterday? <mark>*(short response)*</mark>
 
 <mark>**Eldest:**</mark>  
 Families, it's a long journey ahead of us! There might be a lot of challenges along the way, especially when we try to follow Jesus and be brothers and sisters to one another.
@@ -45,21 +51,14 @@ Families, are you ready to go back to our Lord? <mark>*(response)*</mark>
 
 <mark>**All:**</mark>  
 **Let's go!**
-
   
 ---  
 
-
 <mark> *The FAMILY SPEAKER enters the boat through the ENTRANCE ROPES, and ties them securely to close the BOAT.* </mark>
-  
 
 ---
 
-  
-
 <mark> ***Song**: ADVENTURE OF A LIFETIME. Resume DRUMS AT CLIMAX as intro to ADVENTURE OF A LIFETIME PRE-CHORUS "God is with us in all we do" ... Enter KPD once song is at fully being played. The family joins the KPDs in dancing Adventure of a lifetime. At song fade, Play SFX and Main display "Good Weather".* </mark>
-
-  
 
 ---  
   
@@ -69,57 +68,47 @@ Families, are you ready to go back to our Lord? <mark>*(response)*</mark>
 
 ---
  
-
 <mark>*Main LED and SFX: GOOD WEATHER. The FAMILY SPEAKER inside their boat. Dad and MIDDLE CHILD are ROWING at the sides. Mom, ELDEST, and YOUNGEST are on the BOAT DECK, sorting their luggage.* </mark>
-
 <mark>Props List</mark>: 
 - **Boat** with <mark>small table, bench/seats for 5 people, anchor hidden inside the boat  </mark>
+- **KPD** with <mark>gentle waves using table cloth </mark>
 - **Dad** with <mark>Phone in Pocket, Boat Paddle at hand </mark>
-- **Mom** with <mark>small bag, Phone in Pocket, Boat Paddle at hand </mark> 
+- **Mom** with <mark>Phone in Pocket</mark> 
 - **Cheska** with <mark> Gym bag and soccer shoes </mark>
 - **Xander** with <mark>Sweater, Headphones around neck, boat paddle at hand </mark>
 - **Jabi** with <mark>bag with snacks </mark>
-- **KPD** with <mark>gentle waves using table cloth </mark>
 
 ---
 
-  
-
 <mark>**Eldest:**</mark>  
 I can't believe we finally got to visit the caves! They're sooo much more beautiful in real life.
- 
 
 <mark>**Youngest:**</mark>  
 And the water was sooo blue and sooo clear!
- 
 
 <mark>**Mom:**</mark>  
 Right?? I grew up seeing postcards and photos of the caves, but nothing compares to the real thing.
-
  
 <mark>**Dad:**</mark>  
 <mark>(teasing)</mark> I bet you have your new profile photo already Mommy, don't you?
-
  
 <mark>**Mom:**</mark>  
 Once we get home, I'm uploading a whole album on Facebook!
-
 
 <mark>**Middle:**</mark>  
 Please, not any embarrassing photos, Mama!
 
 ---
+
 <mark>*SFX: Dad's phone pings with MANY NOTIFICATIONS. He takes his phone out of his pocket.*</mark>
 
 ---
 
 <mark>**Dad:**</mark>  
 **Cheska**, can you take over here for a minute? I need to answer this quickly.
-  
 
 <mark>**Eldest:**</mark>  
 <mark>(goes to him, takes the oar and starts ROWING)</mark> Another message from work, Dada?
-
 
 ---
 
@@ -130,14 +119,11 @@ Please, not any embarrassing photos, Mama!
 <mark>**Dad:**</mark>  
 <mark> *(still looking at and typing on his phone*)</mark> Yes? we've been talking to this big client for weeks, and now their emails are looking very promising. We have to act fast to seal the deal!
 
-
 <mark>**Middle:**</mark>  
 <mark>*(to Eldest)*</mark> Dad is aaaalways working. Not a day goes by without his work phone.
 
-
 <mark>**Dad:**</mark>  
 <mark> *(looks up quickly at Middle and Eldest Child)* </mark> I could say the same about you and your devices! <mark> *(sighs)*</mark> You're not old enough to understand yet, but we need this money. You know I love spending time with you all, but this vacation cost a lot, we still have bills to pay, and your mom and I are saving up for your college as well. That's why I need to work, always.
-
 
 <mark>**Middle:**</mark>  
 <mark>*(sighing to themself)* </mark> I thought this was a family vacation?
@@ -151,13 +137,14 @@ Please, not any embarrassing photos, Mama!
   
 
 <mark>**Youngest:**</mark>  
-<mark> *(goes closer to Mom, holds on to her shirt)*</mark> Mommy, look at the dark clouds. I'm scared.
- 
+<mark> *(goes closer to Mom, holds on to her shirt)*</mark> 
+Mommy, 
+look at the dark clouds. 
+I'm scared.
   
 
 <mark>**Mom:**</mark>  
 <mark> *(puts arm around Youngest Child)*</mark> Oh, it's okay, **Jabi**. I'm sure we'll be fine. <mark> *(looks at Dad)*</mark> Daddy, how far are we from the mainland?
-
   
 ---
 <mark>***Dad** doesn't respond and continues to type on his phone. **Mom** leaves the BOAT DECK and goes to him on the BOW.*</mark>
@@ -167,103 +154,75 @@ Please, not any embarrassing photos, Mama!
 <mark>**Mom:**</mark>  
 <mark>*(clears her throat, louder voice)*</mark> **Dad**?
 
-  
-
 <mark>**Dad:**</mark>  
 <mark>*(still looking at and typing on his phone)*</mark> Hmm? Oh, not too long now. The rain won't catch us, don't worry.
   
-  
 ---
+
 <mark>*SFX + LIGHTS: THUNDER RUMBLING again, louder. LIGHTING flashes once, twice! LED: Main LED: BAD WEATHER. KPD: BAD WEATHER (faster winds, one big wave)*</mark>
 
 ---
-  
-  
 
 <mark>**All:**</mark>  
 **Woah!**
 
 ---
+
 <mark>*AT RISE: Shocked, everyone holds on to the boat to secure themselves. On the BOAT DECK, Mom holds on to Youngest. On the SIDES, Eldest falls to the floor and Middle ignores them, and returns to ROWING. On the BOW, Dad grows unsteady but continues to type on his phone and seek reception.*</mark>
 
 ---
-  
-  
 
 <mark>**Eldest:**</mark>  
 Ouch!!!
-
   
 <mark>**Mom:**</mark>  
 **Cheska**, are you okay? **Xander**, help her out, please.
 
-
-
 <mark>**Eldest:**</mark>  
 <mark> *(stands up on their own, and returns to ROWING.)*</mark> I'm fine Mommy, no need to worry.
 
-  
-  
-  
-
 <mark>**Mom:**</mark>  
 <mark>*(looks at Middle Child, pause, deep breath)*</mark> **Jabi**, can you stay here for a few minutes? I'll just talk to your **kuya Xander**.
-
- 
 
 <mark>**Youngest:**</mark>  
 Ok Mommy.
 
 ---
+
 <mark> * When Mom leaves, Youngest opens one of their bags and starts eating some chips from a container. Mom sits beside Middle, who has gotten very tired, and helps in ROWING.* </mark>
 
 ---
-  
-  
 
 <mark>**Mom:**</mark>  
 Let me help you, **Xander**. Are you okay?
-
   
 ---
+
 <mark>*Middle is silent, looking sad and withdrawn.*</mark>
 
 ---
-  
-  
 
 <mark>**Mom:**</mark>  
 **Xander**, You've been very down and quiet since our vacation, you're not eating a lot? What's going on?
-
  
 <mark>**Middle:**</mark>  
 It's nothing, Momma. I just have a headache.
 
-
 <mark>**Mom:**</mark>  
 I understand if that's true, but? you've been saying that for two weeks now. I remember the other day, before we went exploring in the caves, you've been having nightmares about the dark. Is something troubling you at school? Are you catching a fever?
-
 
 <mark>**Eldest:**</mark>  
 Don't mind him, Mommy.  Everyone has bad days. Besides, he's looking for attention 'cause Daddy broke his promise and didn't play **ping pong** with us during the vacation.
 
-  
-  
-  
-
 <mark>**Mom:**</mark>  
 Dad...I think we need to go to his pedia, just to be sure.
-
-  
 
 <mark>**Dad:**</mark>  
 <mark>*(dismissive)*</mark> I'm sure he's  fine. Like **Cheska** said, it's just part of growing up.
 
-
 ---
   
 <mark>*SFX + LIGHTS: THUNDER RUMBLING again, even louder. Lightning flashes twice! LED: Main LED: SCARY WEATHER. KPD: SCARY WEATHER (rainy winds, one big wave). AT RISE: Waves get even bigger. The CHILDREN scream and panic, KPD WATERS reach in and take the ECO BAG WITH SNACKS.*</mark>
-
 
 <mark>*The CHILDREN drop their oars, and run to each other on the BOAT BOW. Mom and Dad run to the BOAT DECK and hold the SAIL by the ROPES as the whole boat gets pounded by wind and waves*.</mark>
 
@@ -274,37 +233,26 @@ Dad...I think we need to go to his pedia, just to be sure.
 My snacks! <mark>*(pulls at Eldest's arm)*</mark> 
 **Ate Cheska** , we have to get them back!!
 
-
 <mark>**Eldest:**</mark>  
 <mark>(consoling)</mark> There's nothing we can do!
   
-
 <mark>**Youngest:**</mark>  
 <mark> *(tantrums)*</mark> Now I'm getting wet from the rain! 
 Why can't we fly home instead of sailing?!
 
-  
-
 <mark>**Middle:**</mark>  
 You know we can't afford it, **Jabi**! Here, you can have my jacket to cover you from the rain.
-
   
 ---
 <mark>*LED: Main LED: SCARY WEATHER WITH DISTANT MOUNTAIN*</mark>
 
 ---
-  
-  
-  
 
 <mark>**Dad:**</mark>  
 Wait! I see a mountain up ahead! We can take shelter there for now. Kids, let's keep a steady rhythm but don't rush! Mommy, secure the sails. Don't let the wind rip it loose!
 
-  
-
 <mark>**All:**</mark>  
 **You got it, Dad!**
-
   
 ---
 <mark>*BAND: Start BASS DRUM beating for added tension / dramatic effect. (8bars). AT RISE: Eldest (left) and Dad (right) row together on the sides. Middle goes to Mom and helps hold down the sails. Youngest goes to the BOAT BOW and looks toward the mountain. All is fine until...*</mark>
@@ -312,276 +260,187 @@ Wait! I see a mountain up ahead! We can take shelter there for now. Kids, let's 
 <mark>*SFX: Mom's phone rings with a call. She takes it out from her pocket.*</mark>
   
 ---
-  
-  
 
 <mark>**Mom:**</mark>  
 <mark> *(grabs phone from her pocket)*</mark> Oh no! It's Ms. Casandra from the Parish Fundraiser. I have to take this.
 
-  
-
 <mark>**Middle:**</mark>  
 **Mommy, no!**
-
   
 ---
-  <mark>Mom lets go of the rope. She declines the call but starts typing furiously.</mark>
+<mark>Mom lets go of the rope. She declines the call but starts typing furiously.</mark>
 
 ---
-  
-  
-  
 
 <mark>**Middle:**</mark>  
 <mark>(angry)</mark> Mom, what are you doing? Answering a work call in the middle of a storm, AND on a Sunday?
 
-  
-  
-  
-
 <mark>**Mom:**</mark>  
 This is important! I'm leading the Christmas fundraiser next month, and there are so many things to prepare!
-
-  
 
 <mark>**Middle:**</mark>  
 Can't you just let the others take over and lead?
 
-  
-
 <mark>**Mom:**</mark>  
 The fundraiser HAS to be perfect. I can't trust the other volunteers to do things the right way, and they always tell me I'm the best person for this job! <mark>  *(Mom steps off the BOAT DECK and to the SIDE.)*</mark>
 
-  
-  
-  
-
 <mark>**Middle:**</mark>  
 But we need you, Mom!
-
   
 ---
+
 <mark>  BASS DRUM grows more urgent. LED: Main LED: SCARY WEATHER WITH MOUNTAIN & BEACH. KPD: SCARY WEATHER (rainy winds, even bigger waves). ONE BIG WAVE.</mark>
 
 ---
-  
-  
 
 <mark>**All:**</mark>  
 **Woooah!!**
-
   
 ---
+
 <mark>Suddenly, KPD WINDS reach into the boat and tear away the FIRST SAIL.</mark>
 
 ---
-  
-  
 
 <mark>**Middle:**</mark>  
 Nooo!! Our sail!
 
-  
-
 <mark>**Mom:**</mark>  
 **Xander**, hold on!
 
-  
 ---
+
 <mark>Mom returns to the BOAT DECK. Eldest panics as ***KPD WATERS*** take a GYM BAG WITH SHOES and throw it overboard. SFX: THUNDER RUMBLING</mark>
 
 ---
-  
-  
-  
 
 <mark>**Eldest:**</mark>  
 <mark>*(reaching for their shoes)*</mark> My soccer shoes! Daddy, we have to get them back!
 
- 
-  
-
 <mark>**Dad:**</mark>  
 <mark>(goes to Eldest, holds them back)</mark> [Eldest], don't lean too far off the boat! You might fall overboard!
-
-
-  
 
 <mark>**Eldest:**</mark>  
 <mark>(upset, still reaching for the shoes)</mark> No, Dad, I can't! I have a big tournament when school starts, and as team captain, I always need the best shoes. Dad, please!
 
-  
-  
-  
-
 <mark>**Dad:**</mark>  
 It's too far out now, **Cheska**, there's nothing we can do. We'll figure out your soccer shoes, don't worry...
-
-  
-  
-  
 
 <mark>**Eldest:**</mark>  
 <mark>(getting upset)</mark> You're always at work, so how would you know?? I've spent sooo many hours in training... after school, on weekends, even on holidays. And that's on top of studying, making projects, and being part of the Honors Society. If I don't do my job well as captain, everything we worked hard for as a team will be for nothing!
 
-  
-
 <mark>**Dad:**</mark>  
 <mark>*(a little angry)*</mark> **Cheska**, I understand you, okay? I really do. But just like you said earlier, this is very important, too. And right now, our family needs our full focus more than ever.
-  
-  
-  
 
 <mark>**Middle:**</mark>  
 <mark> *(pulling hard on the mast)*</mark> **I think it's gonna rip!**
-
     
 ---
+
 <mark>*KPD: The SECOND SAIL rips entirely. BAND: BASS DRUM reaches climax. LED: Main LED: SCARY WEATHER WITH BEACH & HOUSE*</mark>
 
 ---
-  
 
 <mark>**Youngest:**</mark>  
 Ay Naku! 
 Our sails are broken!!
 
-  
-  
-  
-
 <mark>**Dad:**</mark>  
 Hold on, we're almost there! Everyone, help me throw this anchor so we can land!
-
   
 ---
+
 <mark> *Dad grabs the ANCHOR and gathers everyone at the BOAT BOW.*</mark>
 
 ---
-    
-  
 
 <mark>**Dad:**</mark>  
 One, two, three... throw!
 
- 
+
 --- 
+
 <mark>*Everyone throws the ANCHOR into the sea*.</mark>
 
 <mark>*BAND: BASS DRUM reaches climax. SFX: Waves washing over the shore. LED: Main LED: CALM WEATHER WITH BEACH & HOUSE. The BOAT runs aground, and from the BOW, everyone stumbles but doesn't fall.*</mark>  
   
 
-
-
 **SCENE 3: CARETAKER & GALILEE**
-  
+
 ---
 <mark>*Main LED: CALM WEATHER WITH BEACH & HOUSE. The FAMILY SPEAKER outside their ruined boat.*</mark>
 <mark> Put away the table cloth waves </mark>
 
 ---
-  
 
 <mark>**Dad:**</mark>  
 Everyone alright? **Jabi?, Xander?, Cheska?**
-  
 
 <mark>**Children:**</mark>  
 I'm here, Dad! I'm alright! We're okay, dad!
 
-  
-
 <mark>**Mom:**</mark>  
 We made it, praise God!
 
-  
-
 <mark>**Youngest:**</mark>  
-But what about our stuff? We lost everything!
+But what about our stuff? 
+We lost everything!
 
-  
 <mark>**Middle:**</mark>  
 Yeah, how are we going to get back home? Are we stuck here forever??????
-
-  
 
 <mark>**Eldest:**</mark>  
 Wait, I know this place! Dad...that's the house you grew up in, right? I remember your childhood pictures!
 
-  
-
 <mark>**Dad:**</mark>  
 Yes, that's the **Cepe Family** ancestral house. Look, someone's coming!
 
-  
 ---
 <mark> *The CARETAKER enters: warm and friendly, and holding a NATIVE HAT from forest work.* </mark> 
 
 ---
-  
 
 <mark>**Caretaker:**</mark>  
 I saw your shipwreck! How is everyone doing?
-  
 
 <mark>**Dad:**</mark>  
 Hello! Do you know the **Cepes**?
 
-  
-
 <mark>**Caretaker:**</mark>  
 Yes! I live in the house next door. Are you...  wait, **Tito JC**??
-
 
 <mark>**Dad:**</mark>  
 Yeah! You must be **Mike**, then,  Eldest son of the brother-in-law of my Dad's Cousin, what's his name again....ah...Tito Rodel?
 
-
 <mark>**Caretaker:**</mark>  
 Ah, no... **Kuya Mike** now lives in another city, in Irving Texas. I'm **Rainier**, the youngest.
-  
 
 <mark>**Dad:**</mark>  
 **Rainier**! You were just a baby when I last saw you! You remember your **Tita Twinkle**? 
 
-  
-
 <mark>**Caretaker:**</mark>  
 Yes, **Tita Twinkle**! (mano)
-
-  
 
 <mark>**Mom:**</mark>  
 **Rainier**!!! You're so big already.
 
-  
-
 <mark>**Caretaker:**</mark>  
 How are you po? How is your family? I saw your boat crash in that storm! Do you need help?
-  
 
 <mark>**Mom:**</mark>  
 We're alright... We just had our family vacation visiting the caves on the nearby island. But as we were heading back, the waves just got bigger and bigger!
 
-  
-
 <mark>**Dad:**</mark>  
 Now our kids are very upset. Look at our boat, our things... How will we ever make it back?
-
-  
 
 <mark>**Caretaker:**</mark>  
 <mark>*(sad)*</mark> I'm sorry to hear that, Tito... maybe your kids can rest inside first? There's food, water, some extra clothes... The bedroom is clean, but they can also stay in the guest room.
 
-
 <mark>**Dad:**</mark>  
 Thank you. Cheska, Xander, Jabi, come here... this is your **Tito  Rainier**, Tito Rodel's youngest son... He'll help us fix our boat. **Cheska**, you remember the house, right? Could you... Maybe if you... <mark> *(stuttering, as Dad is tired and overwhelmed.)* </mark>
 
-  
-
 <mark>**Eldest:**</mark>  
 Sure, Dad. Xander, Jabi, let's get something to eat. Hi Tito Rainier! (High Five!)
-
 
 <mark>**Youngest:**</mark>  
 I want to help fix the boat!
@@ -589,39 +448,28 @@ I want to help fix the boat!
 <mark>**Middle:**</mark>  
 <mark>*(still pissed, arms crossed, stomping away)* </mark>Whatever...
 
-
-  ---
+---
 
 <mark>*The ELDEST and MIDDLE Child leave **EXIT RIGHT**. Mom and the Caretaker move BOAT HULLS and PADDLES. Mom tries to adjust the SAILS.
 Dad is visibly frustrated and overwhelmed as he also picks up some of the ROWING SEATS. The YOUNGEST approaches him.*</mark>
 
 ---
-  
 
 <mark>**Youngest:**</mark>  
 Dad, is this really where you grew up?
-  
 
 <mark>**Dad:**</mark>  
 Yes,Jabi. When I was your age, this place was my home!
 
-  
-
 <mark>**Youngest:**</mark>  
 Then why are you so sad? :(
-
-  
 
 <mark>**Dad:**</mark>  
 <mark> *(sighing, hugs the YOUNGEST)* </mark>  Hayyy, Jabi...
 
-  
-
 <mark>**Youngest:**</mark>  
 We'll make it back, Dad! 
 God will make a way!
-
-  
 
 <mark>**Dad:**</mark>  
 <mark>*(smiling)*</mark> Yes, that's true. Anyway, can you help Mommy put back the sail?
@@ -629,56 +477,40 @@ God will make a way!
 <mark>**Youngest:**</mark>  
 Sure, Dad!
 
-  
 ---
 
 <mark>*The Caretaker has been hearing their whole conversation. As the Youngest leaves, Dad tries to carry one of the ROWING SEATS...obviously struggling... and the Caretaker catches it before the seat could slip.*</mark>
 
 ---
-  
 
 <mark>**Caretaker:**</mark>  
 I got you!
 
-  
-
 <mark>**Dad:**</mark>  
 Ah... thanks, **Rainier**. <mark>*(tired. They put down the SEAT somewhere else.)*</mark>
-
-  
 
 <mark>**Caretaker:**</mark>  
 Tito, I'm so glad you found your way back here. The last time we saw you was, I think... was 2017?  8 years ago? During the town fiesta?
 
-  
-
 <mark>**Dad:**</mark>  
 Yes. It's been so hard to make time for vacations or reunions, with so many things happening at work, and with your **Tita Twinkle**  helping run the Church Fundraiser and different committees. But... I am still so thankful that our family saw the ancestral home again. *(pause to look at the house)* Actually, this house is where I first encountered Jesus.
-
-  
 
 <mark>**Youngest:**</mark>  
 Really, Dad? 
 Jesus lives here, in your house??
 
-  
-
 <mark>**Dad:**</mark>  
 *(laughing)* No, **Jabi**. This house is where my parents taught me many valuable lessons about life. I still use them even as I'm older, and now I share them to you and your siblings as you grow up.
-
-  
 
 <mark>**Youngest:**</mark>  
 You mean like lessons on how to sail a boat? 
 
-  
 ---
 
 <mark> **LED STATIC SPLASH TEXT:**</mark>
 <mark> "Parents are the primary educators of their children, responsible for teaching them values, faith, and moral principles. God encourages parents to create a nurturing environment where children can grow in love and faith." ...St. Pope John Paul II </mark>
 
 ---
-  
 
 <mark>**Dad:**</mark>  
 *(laughing)* Yes! But more importantly, this is where my parents first introduced me to God. This is where they taught me about right and wrong, about loving our neighbor, and that being kind and respectful to others makes Jesus very happy!  <mark>*(proudly)* </mark> This place is my Galilee.
@@ -690,20 +522,15 @@ You mean like lessons on how to sail a boat?
 During the storm, he told us: do not be afraid! 
 Didn't Jesus also tell that to His disciples?
 
-  
-
 <mark>**Caretaker:**</mark>  
 Yes! Jesus was also very brave, in telling the people to avoid sin and go back to God, our Father in heaven. But Jesus did not stop there. He told his disciples, "*Go to Galilee. There, you will see Me.*"
-
-  
 
 <mark>**Youngest:**</mark>  
 Dad, what's Galilee? 
 And what does it have to do with Jesus?
 
   
-  
-  
+
 ---
 
 <mark>*The Caretaker goes to the back and starts checking the sails, trying to repair them but keeps failing. Then he starts readjusting ROWING SEATS.* </mark>
@@ -711,29 +538,22 @@ And what does it have to do with Jesus?
 <mark>**LED STATIC SPLASH IMAGE: Map of Galilee during the time of Jesus** </mark>
 
 ---
-  
 
 <mark>**Dad:**</mark>  
 Galilee, **Jabi**, is a region in the country of Israel, where Jesus began His mission to bring us closer to His Father in heaven. Galilee is where He called many of his disciples to follow Him. It's also where He did many miracles, like when He fed five thousand people with five loaves and two fish, and when he calmed a storm and walked on water!
-
-  
 
 <mark>**Youngest:**</mark>  
 That's so cool, Dada! 
 Mommy, can we go to Galilee for our next family vacation? 
 I want to meet Jesus!
 
-  
-
 <mark>**Mom:**</mark>  
 Oh! I wish we could. But we don't have to fly or sail to Israel to meet Jesus. Galilee is wherever or whenever Jesus Christ meets us, talks to us, and calls us to follow Him. Just like how Galilee was where Jesus called many of his first disciples, all of us have our own unique versions of Galilee.
 
-  
 <mark>**Dad:**</mark>  
 That's right. Galilee can be where God calls us to be a good friend, a helpful classmate, or a kind brother and sister to our siblings. Sometimes, Galilee refers to the moments when God calls us on a specific mission: to love other people, serve the community, or help those in need.
 
 <mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
-
 
 <mark>**Youngest:**</mark>  
 Dad, remember our camping trip last year with other kids and their fathers? 
@@ -745,7 +565,6 @@ Was Jesus with us in that camping trip?
 <mark>**Dad:**</mark>  
 <mark>*(hugs the Youngest)*</mark> I really believe so, **Jabi**. 
 
-
 ---
 <mark> **LED STATIC SPLASH TEXT:**</mark>
 <mark>"Our family is a place of encounter with God. Love is experienced and nurtured in the daily lives of couples and their children." ...Familiaris Consortio </mark>
@@ -755,16 +574,15 @@ Was Jesus with us in that camping trip?
 <mark>**Dad:**</mark>  
 The family is where we share and grow in faith. Remember your **kuya Xander**'s favorite Bible verse? Love is patient, love is kind...
 
-  
-
 <mark>**Youngest:**</mark>  
-I know that! Love is not jealous, love is not proud. Love doesn't get angry easily.
-
-  
+I know that! 
+Love is not jealous, 
+love is not proud. 
+Love doesn't get angry easily.
 
 <mark>**Mom:**</mark>  
 ...And love always trusts, always hopes, and always perseveres. Very good, **Jabi**. *<mark>(to audience)*</mark> The family is where each member can experience and be strengthened by love. That's why...
-  
+
   
 ---
 <mark>**LED STATIC SPLASH TEXT:**  "The family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones." </mark>
@@ -775,83 +593,60 @@ I know that! Love is not jealous, love is not proud. Love doesn't get angry easi
 ... the family is everyone's first Galilee. The family is where every human being first encounters Jesus in their loved ones.
 That's why when we experience today's challenges, Jesus calls us back to our Galilee...to go home and encounter God again through our family. And even in our ordinary moments together, we and our children can grow in faith as we strive to follow Jesus every day.
 
-  
 ---
 <mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
 <mark>*The Caretaker places a ROWING SEAT near Mom and Dad.* </mark>
 
 ---
-  
 
 <mark>**Caretaker:**</mark>  
 Tito JC, Tita Twinkle... you know, I can't help but wonder: what if God was trying to tell you something when your family boat ended up here... Back home in Tito JC's ancestral house? Didn't you say you suddenly saw the mountain, even if the waves were so big and scary?
 
-  
-
 <mark>**Dad:**</mark>  
 <mark> *(looking around at their ruined boat)* </mark> Yeah, this was... kind of a mysterious way to come home. But you know, now that I think about it... I believe that's what God wants for our family. He wants us to meet Him in our homes, with our loved ones. Those challenges, like today's digital culture and mental health issues, or lack of family time because of work, extracurriculars, or financial matters... those are realities of life that all of us must take on together, as a family. And we can only do that when it is Jesus, our Good Shepherd, who leads the way.
-
-  
 
 <mark>**Mom:**</mark>  
 Amen, Dad. It's Jesus who renews our faith and hope. <mark>*(to audience)*</mark> And like how Jesus told His disciples to meet Him in Galilee, our families are also called to go back home to our loved ones, to prioritize our family in all our decision-making. Because our families, next to Jesus, are the greatest gift we can ever receive. You may have a high position at work, in society, or community, but you are irreplaceable at home.
 
-  
   
 ---
 <mark>*The YOUNGEST quietly steps onto the ROWING SEAT to be level with Mom, Dad, and the Caretaker.*</mark>
 
 ---
 
-  
-
 <mark>**Youngest:**</mark>  
 Mommy, Daddy, I miss you at home!
 
-  
 ---
 <mark>*LED STATIC SPLASH TEXT:</mark>
 <mark>"Among these many paths, the family is the first and the most important. It is a path common to all, yet one which is particular, unique, and unrepeatable, just as every individual is unrepeatable; it is a path from which man cannot withdraw." ... St. Pope John Paul II*</mark>
 
 ---
-  
 
 <mark>**Dad:**</mark>  
 Oh Jabi, I missed you too! (they hug, the YOUNGEST standing on the ROWING SEAT). All of you, even your older siblings, are so important to me. And this vacation reminded me to put our family at the top of my priority list.
 
- 
-
 <mark>**Mom:**</mark>  
 Me too! We'll face a lot more challenges as we head back to our own home, but I know that the Lord is with us... in our past, in our present, and in our future. Amen?
-
-  
 
 <mark>**All:**</mark>  
 **Amen!**
 
 <mark> **Revert to Scene Calm Waters (BEACH & HOUSE)**</mark>
-  
 
 <mark>**Caretaker:**</mark>  
 So Tito JC, Tita Twinkle, about your boat... I don't have the right materials to fix it right now. But you could check inside the ancestral house... or explore the area for anything that might help.
 
-  
-
 <mark>**Dad:**</mark>  
 Sure, Rainier! I bet Cheska and Xander are well-rested by now. Jabi, do you want to rest too?
-
-  
 
 <mark>**Youngest:**</mark>  
 No thanks, Dad. 
 I want to go exploring!!
 
-  
-
 <mark>**Mom:**</mark>  
 Alright, then. Let's find a way to fix our boat!
 
-  
 ---
 <mark> **Dad, Mom, Youngest**, and **Caretaker** **EXIT LEFT** </mark>
 
@@ -862,7 +657,6 @@ Alright, then. Let's find a way to fix our boat!
 
 ---
 <mark> *MAIN Display : LIVING ROOM INSIDE ANCESTRAL HOME.  Middle and Eldest Child ENTER from the opposite sides of the stage. Middle is holding a SAIL REPAIR KIT and a large LETTER B.* </mark>
-
 
 <mark>**Props List**</mark>: 
 - **Xander** with <mark> **letter "B"** with Sail Repair Kit </mark>
@@ -1041,7 +835,8 @@ I found this map by the window, with the letter A attached! *(gives the map to C
 <mark>*(looks at the map)* </mark> **Tito Rain**, is this the map of the entire province? *(points at the map)* These are the caves we visited yesterday! And if this is the mainland? *(points to a different part of the map)* Then this is where we are!
 
 <mark>**Youngest:**</mark>  
-Wow, so many neighborhoods around the mountain. Did Mamita also cook for them like she did for us?
+Wow, so many neighborhoods around the mountain. 
+Did Mamita also cook for them like she did for us?
 
 <mark>**Dad:**</mark>  
 She did! So I think this letter **A stands for? Acts of love and service!**
@@ -1072,7 +867,9 @@ I'll remember that!
 **Jabi**, what did you find?
 
 <mark>**Youngest:**</mark>  
-Kuya Xander and I found batteries, an emergency flashlight, and the **letter V!**
+Kuya Xander and I found batteries, 
+an emergency flashlight, 
+and the **letter V!**
 
 <mark>**Mom:**</mark>  
 Great job! Where did you find these?
@@ -1098,7 +895,11 @@ Not really? But I think this V means ? **Value the sacraments**. Kids, do you re
 <mark>*(thinking)*</mark> There's the sacrament of Marriage, right? Also Baptism? and Confirmation.
 
 <mark>**Youngest:**</mark>  
-There's also Holy Orders, for the priests and religious! And going to confession? that's a sacrament too. Also the Eucharist!
+There's also Holy Orders, 
+for the priests and religious! 
+And going to confession? 
+that's a sacrament too. 
+Also the Eucharist!
 
 <mark>**Middle:**</mark>  
 Dad, dad, I remember what you told me during my first Holy Communion! It's a very special meal because the bread is Christ's body, and the wine is His blood, and when we eat and drink it, we remember His sacrifice on the cross because He loves us very much!
@@ -1121,12 +922,10 @@ Yes, that's why it's important to actively participate in them. We cannot live w
 <mark>**Middle:**</mark>  
 <mark>*(excited)* </mark> Good thing we were able to hear mass early today before setting sail! I'm always looking forward to attend Mass every Sunday and receive the Eucharist !!!
 
-
 ---
 <mark>*Youngest Child takes the BATTERIES & FLASHLIGHT, while Middle Child puts LETTER V on the FRONT HULL. MAIN LED fades back to LIVING ROOM INSIDE ANCESTRAL HOME.* </mark>
 
 ---
-
 
 <mark>**Caretaker:**</mark>  
 Tita Twinkle, did you find this rope?
@@ -1172,7 +971,7 @@ Mama and Papa also made us practice regular family mealtime. We prepared meals t
 
 ---  
   
-ï»¿
+
 **SCENE 5: HOLY FAMILY & SENDOFF**
 
 ---
@@ -1197,16 +996,16 @@ But will these tools be enough when we face those giant waves?
 Yeah, what if our boat gets ruined again?
 
 <mark>**Caretaker:**</mark>  
-You know kids, waves can be big and scaryâ€”but they can also be big and FUN! Especially if you face it together as a family and with Jesus!
+You know kids, waves can be big and scary—but they can also be big and FUN! Especially if you face it together as a family and with Jesus!
 
 ---
 <mark> ***LED STATIC SPLASH TEXT:** </mark> 
-<mark> "Everyone must consider his every neighbor without exception as another self, taking into account first of all His life and the means necessary to living it with dignity" â€”Gaudium et Spes 27*</mark> 
+<mark> "Everyone must consider his every neighbor without exception as another self, taking into account first of all His life and the means necessary to living it with dignity" —Gaudium et Spes 27*</mark> 
 
 ---
 
 <mark>**Mom:**</mark>  
-The realities we faced earlier are just a few of the many challenges that families face today. When fears come our way, Jesus invites us to go back to our Galilee, where He can meet us and strengthen us again. And the familyâ€” our family, is our first Galilee.
+The realities we faced earlier are just a few of the many challenges that families face today. When fears come our way, Jesus invites us to go back to our Galilee, where He can meet us and strengthen us again. And the family— our family, is our first Galilee.
 
 <mark>**Dad:**</mark>  
 Just like when He told His disciples: "Do not be afraid, there you will see me." Jesus calls us to be BRAVE because He is always with us!
@@ -1235,7 +1034,7 @@ And we'll make God the center of our family, no matter the challenges.
 ---
 
 <mark> **LED STATIC SPLASH TEXT:**</mark> 
-<mark> *"Being a Christian family does not automatically guarantee the absence of trials. But through such trials, the family itself can be strengthened and, with the support of pastoral care, led to recognize its fundamental vocation in God's plan." â€”Synod of Bishops, 2014*</mark> 
+<mark> *"Being a Christian family does not automatically guarantee the absence of trials. But through such trials, the family itself can be strengthened and, with the support of pastoral care, led to recognize its fundamental vocation in God's plan." —Synod of Bishops, 2014*</mark> 
 
 ---
 
@@ -1251,7 +1050,7 @@ And we'll make God the center of our family, no matter the challenges.
 Thank you for this, **Rainier**. No matter what we go through, our family will remember that Jesus is always with us.
 
 <mark>**Mom:**</mark>  
-For now, we must return to our Galileeâ€” our own households. Kids, are you ready to go home?
+For now, we must return to our Galilee— our own households. Kids, are you ready to go home?
 
 <mark>**Children:**</mark>  
 **Yes!**
@@ -1310,7 +1109,6 @@ Good and holy, it's time for us to be brave!
 <mark>**Dad:**</mark>  
 What great weather to sail out! Are you guys ready to face the waves?
 
-
 <mark>**Jabi:**</mark>  Yes Dad! 
 <mark>**Xander:**</mark>  Aye Aye Captain! 
 <mark>**Cheska:**</mark>  Let's Go!
@@ -1348,7 +1146,6 @@ And I still have another pair at home that works just fine. I'm sorry for gettin
 
 ---
 
-
 <mark>**Mom:**</mark>  
 And speaking of focus... <mark>*(turns her PHONE off)* </mark> My "boss" can definitely wait until Monday. Sunday is family day!
 
@@ -1356,7 +1153,6 @@ And speaking of focus... <mark>*(turns her PHONE off)* </mark> My "boss" can def
 <mark>*Youngest Kid's stomach grumbles. He  touches his stomach and looks bashful.*</mark>
 
 ---
-
 
 <mark>**Middle:**</mark>  
 **Jabi**, are you feeling hungry? <mark>*(reaches for their BAG and looks for a SNACK)* </mark>
@@ -1389,7 +1185,6 @@ Alright! From right to left this time, okay? Here we go! **Three, two, one... wa
 
 <mark>**Eldest:**</mark>  
 *(helps Middle Child)* **Xander**, are you okay? Did you get a scratch? Here-- <mark>*(gets a Band-Aid  from the FIRST AID KIT)*</mark> -- let me help you.
-
 
 <mark>**Middle:**</mark>  
 <mark>*(gentle smile at Eldest)* </mark>Thank you, Ate Cheska. I appreciate it.
@@ -1444,7 +1239,6 @@ And if we go straight ahead, toward these mangroves...We'll finally reach home!
 
 <mark>**Mom:**</mark>  
 Almost there, one last wave!! Back to front, now!
-
 
 ---
 
@@ -1508,7 +1302,6 @@ This time, we're gonna do the session activity together! Are you ready? <mark>*(
 <mark>**All:**</mark>  
 **FAMILY FIRST!**
 
-
 ---
 <mark>**Main Display: SESSION ACTIVITY INSTRUCTIONS.** </mark>
 
@@ -1542,7 +1335,6 @@ Is everyone ready? (audience response) Alright! See you in  <mark>*20 minutes!* 
 ---
 
 <mark>  Start **Countdown Timer in Main Screen**.  *FAMILY SPEAKER will place the ROWING SEATS by the BOAT DECK so they can be near the IMAGE OF THE HOLY FAMILY. Then the FAMILY SPEAKER will complete the ACTIVITY onstage.*  </mark>
-
 
 ---  
   

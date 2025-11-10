@@ -45,7 +45,6 @@ This time, we're gonna do the session activity together! Are you ready? <mark>*(
 <mark>**All:**</mark>  
 **FAMILY FIRST!**
 
-
 ---
 <mark>**Main Display: SESSION ACTIVITY INSTRUCTIONS.** </mark>
 
@@ -79,6 +78,5 @@ Is everyone ready? (audience response) Alright! See you in  <mark>*20 minutes!* 
 ---
 
 <mark>  Start **Countdown Timer in Main Screen**.  *FAMILY SPEAKER will place the ROWING SEATS by the BOAT DECK so they can be near the IMAGE OF THE HOLY FAMILY. Then the FAMILY SPEAKER will complete the ACTIVITY onstage.*  </mark>
-
 
 ---

@@ -18,7 +18,6 @@
 <mark>**Dad:**</mark>  
 What great weather to sail out! Are you guys ready to face the waves?
 
-
 <mark>**Jabi:**</mark>  Yes Dad! 
 <mark>**Xander:**</mark>  Aye Aye Captain! 
 <mark>**Cheska:**</mark>  Let's Go!
@@ -56,7 +55,6 @@ And I still have another pair at home that works just fine. I'm sorry for gettin
 
 ---
 
-
 <mark>**Mom:**</mark>  
 And speaking of focus... <mark>*(turns her PHONE off)* </mark> My "boss" can definitely wait until Monday. Sunday is family day!
 
@@ -64,7 +62,6 @@ And speaking of focus... <mark>*(turns her PHONE off)* </mark> My "boss" can def
 <mark>*Youngest Kid's stomach grumbles. He  touches his stomach and looks bashful.*</mark>
 
 ---
-
 
 <mark>**Middle:**</mark>  
 **Jabi**, are you feeling hungry? <mark>*(reaches for their BAG and looks for a SNACK)* </mark>
@@ -97,7 +94,6 @@ Alright! From right to left this time, okay? Here we go! **Three, two, one... wa
 
 <mark>**Eldest:**</mark>  
 *(helps Middle Child)* **Xander**, are you okay? Did you get a scratch? Here-- <mark>*(gets a Band-Aid  from the FIRST AID KIT)*</mark> -- let me help you.
-
 
 <mark>**Middle:**</mark>  
 <mark>*(gentle smile at Eldest)* </mark>Thank you, Ate Cheska. I appreciate it.
@@ -152,7 +148,6 @@ And if we go straight ahead, toward these mangroves...We'll finally reach home!
 
 <mark>**Mom:**</mark>  
 Almost there, one last wave!! Back to front, now!
-
 
 ---
 

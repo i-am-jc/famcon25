@@ -4,7 +4,6 @@
 ---
 <mark> *MAIN Display : LIVING ROOM INSIDE ANCESTRAL HOME.  Middle and Eldest Child ENTER from the opposite sides of the stage. Middle is holding a SAIL REPAIR KIT and a large LETTER B.* </mark>
 
-
 <mark>**Props List**</mark>: 
 - **Xander** with <mark> **letter "B"** with Sail Repair Kit </mark>
 - **Caretaker**:  <mark> **HOLY FAMILY IMAGE**  </mark> brought in when we search for the **BRAVE** letters
@@ -182,7 +181,8 @@ I found this map by the window, with the letter A attached! *(gives the map to C
 <mark>*(looks at the map)* </mark> **Tito Rain**, is this the map of the entire province? *(points at the map)* These are the caves we visited yesterday! And if this is the mainland? *(points to a different part of the map)* Then this is where we are!
 
 <mark>**Youngest:**</mark>  
-Wow, so many neighborhoods around the mountain. Did Mamita also cook for them like she did for us?
+Wow, so many neighborhoods around the mountain. 
+Did Mamita also cook for them like she did for us?
 
 <mark>**Dad:**</mark>  
 She did! So I think this letter **A stands for? Acts of love and service!**
@@ -213,7 +213,9 @@ I'll remember that!
 **Jabi**, what did you find?
 
 <mark>**Youngest:**</mark>  
-Kuya Xander and I found batteries, an emergency flashlight, and the **letter V!**
+Kuya Xander and I found batteries, 
+an emergency flashlight, 
+and the **letter V!**
 
 <mark>**Mom:**</mark>  
 Great job! Where did you find these?
@@ -239,7 +241,11 @@ Not really? But I think this V means ? **Value the sacraments**. Kids, do you re
 <mark>*(thinking)*</mark> There's the sacrament of Marriage, right? Also Baptism? and Confirmation.
 
 <mark>**Youngest:**</mark>  
-There's also Holy Orders, for the priests and religious! And going to confession? that's a sacrament too. Also the Eucharist!
+There's also Holy Orders, 
+for the priests and religious! 
+And going to confession? 
+that's a sacrament too. 
+Also the Eucharist!
 
 <mark>**Middle:**</mark>  
 Dad, dad, I remember what you told me during my first Holy Communion! It's a very special meal because the bread is Christ's body, and the wine is His blood, and when we eat and drink it, we remember His sacrifice on the cross because He loves us very much!
@@ -262,12 +268,10 @@ Yes, that's why it's important to actively participate in them. We cannot live w
 <mark>**Middle:**</mark>  
 <mark>*(excited)* </mark> Good thing we were able to hear mass early today before setting sail! I'm always looking forward to attend Mass every Sunday and receive the Eucharist !!!
 
-
 ---
 <mark>*Youngest Child takes the BATTERIES & FLASHLIGHT, while Middle Child puts LETTER V on the FRONT HULL. MAIN LED fades back to LIVING ROOM INSIDE ANCESTRAL HOME.* </mark>
 
 ---
-
 
 <mark>**Caretaker:**</mark>  
 Tita Twinkle, did you find this rope?
