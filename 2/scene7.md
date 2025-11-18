@@ -54,7 +54,7 @@ This time, we're gonna do the session activity together! Are you ready? <mark>*(
 For this activity, you will need your conference kit and writing materials. We will give you 10 seconds to bring them out! *(count down)* Does everyone have their materials? Raise them up high! *(wait for audience to respond)*
 
 <mark>**Eldest:**</mark>  
-Let's start! <mark>**On page 21 of your conference kit** </mark>, you will find the Family First activity template. Today, we will plan the different activities that each family member must actively join and be a part of. This activity plan will help us remember to prioritize and protect family activities.
+Let's start! <mark>**On page 24 to 25 of your conference kit** </mark>, you will find the Family First activity template. Today, we will plan the different activities that each family member must actively join and be a part of. This activity plan will help us remember to prioritize and protect family activities.
 
 <mark>**Middle:**</mark>  
 There are 4 boxes in the template. The first box is for IMPORTANT DATES and schedules. Fill in birthdays, anniversaries, and other important dates that must not be missed or forgotten by the family. Each member must absolutely not make other plans on these dates.
@@ -63,10 +63,10 @@ There are 4 boxes in the template. The first box is for IMPORTANT DATES and sche
 The second box is for the family's PLANNED ACTIVITIES. This can be your family vacation, family household, parent and child date, mom and dad date, and others!
 
 <mark>**Youngest:**</mark>  
-The third box is for ACTS OF LOVE AND SERVICE. 
-Plan activities to help others, 
-such as helping clean the grandparents' house, 
-sharing meals with neighbors, 
+The third box is for ACTS OF LOVE AND SERVICE.
+Plan activities to help others,
+such as helping clean the grandparents' house,
+sharing meals with neighbors,
 and visiting a sick friend at the hospital.
 
 <mark>**Mom:**</mark>  
